@@ -1,5 +1,5 @@
 # Description
-This a data repository, containing files and links to all data related to the TU Delft Leading-Edge Inflatable V3 kite.
+This a data repository, containing files and links to all data related to the TUDELFT_V3_KITE.
 
 ![V3](data/pictures/pre_2014_testing_behind_AE_faculty_Delft_overview.JPG)
 
