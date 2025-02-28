@@ -10,14 +10,14 @@ add internship report of Leuthold
 
 # Literature
 <details>
-  <summary>**2025**</summary>
+  <summary>2025</summary>
 
 - [Cayon, O., Watson, S., and Schmehl, R.: Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems, Wind Energ. Sci. Discuss. preprint,10.5194/wes-2024-182, in review, 2025.](https://doi.org/10.5194/wes-2024-182) 
 - Poland, J.A.W., Mac Gaunaa, and Schmehl, R.: (in preparation) Brief communication on enhancements and best practices for utilizing the Vortex Step Method, Wind Energy Science, 2025.
 </details>
 
 <details>
-  <summary>**2024**</summary>
+  <summary>2024</summary>
 
 - [Poland, J.A.W. and Schmehl, R.: A virtual wind tunnel for deforming airborne wind energy kites, J. Phys.: Conf. Ser. 2767, 072001, 2024.](https://doi.org/10.1088/1742-6596/2767/7/072001)
 - [Schelbergen, M. and Schmehl, R.: Swinging motion of a kite with suspended control unit flying turning manoeuvres, Wind Energy Science, 9, 1323–1338, 2024.](https://doi.org/10.5194/wes-9-1323-2024)
@@ -25,7 +25,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2023**</summary>
+  <summary>2023</summary>
 
 - [Poland, J.A.W. and Schmehl, R.: Modelling Aero-Structural Deformation of Flexible Membrane Kites, Energies, 16(14):5264, 2023.](https://doi.org/10.3390/en16145264)
 - [Watchorn, P.: Aerodynamic Load Modelling for Leading Edge Inflatable Kites, Masters Thesis, Delft University of Technology, 2023.](http://resolver.tudelft.nl/uuid:42f611a2-ef79-4540-a43c-0ea827700388)
@@ -34,20 +34,20 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2022**</summary>
+  <summary>2022</summary>
 
 - [Poland, J.A.W.: Modelling aeroelastic deformation of soft wing membrane kites, Masters Thesis, Delft University of Technology, 2022.](http://resolver.tudelft.nl/uuid:39d67249-53c9-47b4-84c0-ddac948413a5)
 - [Cayon, O.: Fast aeroelastic model of a leading-edge inflatable kite, Masters Thesis, Delft University of Technology, 2022.](http://resolver.tudelft.nl/uuid:aede2a25-4776-473a-8a75-fb6b17b1a690)
 </details>
 
 <details>
-  <summary>**2021**</summary>
+  <summary>2021</summary>
 
 - [Viré, A., Lebesque, G., Folkersma, M. and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15(4):1450, 2021.](https://doi.org/10.3390/en15041450)
 </details>
 
 <details>
-  <summary>**2020**</summary>
+  <summary>2020</summary>
 
 - [Viré, A. et al.: Reynolds-averaged Navier-Stokes simulations of the flow past a leading edge inflatable wing for airborne wind energy applications, J. Phys.: Conf. Ser., 1618(3):032007, 2020.](https://doi.org/10.1088/1742-6596/1618/3/032007)
 - [Lebesque, G.H.M.: Steady-State RANS Simulation of a Leading Edge Inflatable Wing with Chordwise Struts, Masters Thesis, Delft University of Technology, 2020.](https://resolver.tudelft.nl/uuid:f0bc8a1e-088d-49c5-9b77-ebf9e31cf58b)
@@ -57,7 +57,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2019**</summary>
+  <summary>2019</summary>
 
 - [Demkowicz, P.: Numerical Analysis of the Flow Past a Leading Edge Inflatable Kite Wing Using a Correlation-Based Transition Model, Masters Thesis, Delft University of Technology, 2019.](http://resolver.tudelft.nl/uuid:c53aa605-1b2e-47a7-b991-c1917d7463b4)
 - [Van der Vlugt, R., Bley, A., Noom, M. and Schmehl, R.: Quasi-steady model of a pumping kite power system, Renewable Energy, 131:83–99, 2019.](https://doi.org/10.1016/j.renene.2018.07.023)
@@ -66,7 +66,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2018**</summary>
+  <summary>2018</summary>
 
 - [Schmehl, R. and Oehler, J.: 25 m2 LEI V3 tube kite transitioning to traction phase, flying figure eight manoeuvres, Copernicus Publications, 2018.](https://doi.org/10.5446/37583)
 - [Oehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.](https://doi.org/10.4121/uuid:37264fde-2344-4af2-860c-effda9caa3e8)
@@ -76,19 +76,19 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2017**</summary>
+  <summary>2017</summary>
   
 - [Sachdeva, S.: Impact of Turning-Induced Shape Deformations on Aerodynamic Performance of Leading Edge Inflatable Kites, MSc Thesis, Delft University of Technology, 2017.](https://resolver.tudelft.nl/uuid:3dd54665-f48c-4e48-9f57-dc285cece612)
 </details>
 
 <details>
-  <summary>**2016**</summary>
+  <summary>2016</summary>
   
 - [Fechner, U.: A Methodology for the Design of Kite-Power Control Systems, PhD Thesis, Delft University of Technology, 2016.](https://doi.org/10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77)
 </details>
 
 <details>
-  <summary>**2015**</summary>
+  <summary>2015</summary>
 
 - [Fechner, U., Van der Vlugt, R., Schreuder, E. and Schmehl, R.: Dynamic Model of a Pumping Kite Power System, Renewable Energy, 83:705–716, 2015.](https://doi.org/10.1016/j.renene.2015.04.028)
 - [Leuthold, R.C.: Multiple-Wake Vortex Lattice Method for Membrane Wing Kites, Masters Thesis, Delft University of Technology, 2015.](http://resolver.tudelft.nl/uuid:4c2f34c2-d465-491a-aa64-d991978fedf4)
@@ -96,7 +96,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2014**</summary>
+  <summary>2014</summary>
 
 - [Geschiere, N.H.: Dynamic modelling of a flexible kite for power generation: Coupling a fluid-structure solver to a dynamic particle system, Masters Thesis, Delft University of Technology, 2014.](https://resolver.tudelft.nl/uuid:6478003a-3c77-40ce-862e-24579dcd1eab)
 - [Jehle, C. and Schmehl, R.: Applied Tracking Control for Kite Power Systems, Journal of Guidance, Control, and Dynamics, 37(4):1211–1222, 2014.](https://doi.org/10.2514/1.62380)
@@ -104,7 +104,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2013**</summary>
+  <summary>2013</summary>
 
 - [Van der Vlugt, R., Peschel, J. and Schmehl, R.: Design and Experimental Characterization of a Pumping Kite Power System, in *Airborne Wind Energy*, Green Energy and Technology, Springer, Chapter 23, 403–425, 2013.](https://doi.org/10.1007/978-3-642-39965-7_23)
 - [Breukels, J., Schmehl, R. and Ockels, W.: Aeroelastic Simulation of Flexible Membrane Wings based on Multibody System Dynamics, in *Airborne Wind Energy*, Green Energy and Technology, Springer, Chapter 16, 287–305, 2013.](https://doi.org/10.1007/978-3-642-39965-7_16)
@@ -113,7 +113,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2012**</summary>
+  <summary>2012</summary>
 
 - [Bosch, H.A.: Finite Element Analysis of a Kite for Power Generation, Masters Thesis, Delft University of Technology, 2012.](http://resolver.tudelft.nl/uuid:888fe64a-b101-438c-aa6f-8a0b34603f8e)
 - [Schwoll, J.: Finite Element Analysis of Inflatable Structures Using Uniform Pressure, Masters Thesis, Delft University of Technology, 2012.](http://resolver.tudelft.nl/uuid:f92da57f-55df-4109-9f8a-8c7c2b220c6a)
@@ -121,7 +121,7 @@ add internship report of Leuthold
 </details>
 
 <details>
-  <summary>**2011**</summary>
+  <summary>2011</summary>
 
 - [Breukels, J.: An Engineering Methodology for Kite Design, PhD Thesis, Delft University of Technology, 2011.](http://resolver.tudelft.nl/uuid:cdece38a-1f13-47cc-b277-ed64fdda7cdf)
 </details>
