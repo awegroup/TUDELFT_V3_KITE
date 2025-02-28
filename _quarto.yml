@@ -1,0 +1,32 @@
+project:
+  type: book
+
+execute: 
+  freeze: true
+
+book:
+  title: "TUDELFT_V3_KITE"
+  sidebar: 
+    logo: data/images/TUDELFT_V3_KITE_pre_2024_testing_behind_AE_faculty_TUDelft.jpg
+  favicon: data/images/TUDELFT_V3_KITE_pre_2024_testing_behind_AE_faculty_TUDelft.jpg
+  repo-url: https://github.com/awegroup/TUDELFT_V3_KITE
+  page-navigation: false
+  # Content of the book:
+  chapters:
+    - index.qmd
+    - docs/literature.md
+    # - part: "**Literature**"
+    #   chapters:
+    #   - docs/literature.md
+    - docs/datasets.md
+    - docs/code_bases.md
+  # appendices: 
+  #   - docs/appendix_example.md
+
+# Add a separete theme for code blocks
+highlight-style: pygments
+
+format:
+  html:
+    theme: lumen # For more themes see https://quarto.org/docs/output-formats/html-themes.html
+    number-depth: 3

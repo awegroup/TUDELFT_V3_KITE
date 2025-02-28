@@ -1,0 +1,51 @@
+# Introduction {.unnumbered}
+
+Welcome to the website where all things related to the TUDELFT_V3_KITE are gathered.
+Here you will find links pointing toward, literature, data, and code.
+
+### [Literature](docs/literature.md) {.unnumbered}
+
+### [Datasets](docs/datasets.md) {.unnumbered}
+
+### [Code bases/Repositories](docs/repositories.md) {.unnumbered}
+
+![pre_2014_testing_behind_AE_faculty_TUDELFT_1](data/images/TUDELFT_V3_KITE_image_collection.png)
+*Top two images are taken while testing behind the Aerospace Engineering Faculty of TU Delf (pre 
+2014)* 
+*The middle two images are from a Wind Tunnel Campaign in the Open-Jet Facility of the TU Delft (April 2024)*
+*The bottom image is from the preprint of: [Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems 2025](https://doi.org/10.5194/wes-2024-182)*
+
+
+## WAIVER {.unnumbered}
+
+Technische Universiteit Delft hereby disclaims all copyright interest in the package written by the Author(s).
+Prof.dr. H.G.C. (Henri) Werij, Dean of Aerospace Engineering
+
+### Copyright {.unnumbered}
+Copyright (c) 2024 Jelle Poland, TU Delft
+ 
+
+::: {.callout-note}
+These efforts all come from [Airborne Wind Energy Research Group](https://github.com/awegroup/.github/edit/main/profile/README.md)  at TU Delft.
+
+If you are curious to read more about airborne wind energy in general, we recommend:
+
+- [The lecture notes](https://awecourse.github.io/slides/) from Roland Schmehl's MSc course at the AE Faculty of the TU Delft.
+- [Airborne Wind Europe](https://airbornewindeurope.org/) for more general information 
+- [The white paper](https://airbornewindeurope.org/wp-content/uploads/2023/03/BVGA-Getting-Airborne-White-Paper-220929.pdf) written with many prominent people in the industry and BVGAssociates.
+
+![Taken in 2024, credits to F.Martins](data/images/awegroup_team.jpg)
+
+:::
+
+<!-- 
+::: {.callout-note}
+These guides were initially developed by the [TU Delft Digital Competence Centre](https://dcc.tudelft.nl). All members of the AWE group are encouraged to modify the guides to:
+
+1. reflect the development practices in the group
+2. share solutions and templates
+3. support the on- and offboarding of group members
+
+The DCC will not maintain these guides after completion of the DCC support in August 2024, but instead adopt them in the [DCC Guides](https://tu-delft-dcc.github.io/welcome.html).
+
+::: -->
