@@ -1,19 +1,10 @@
-name: Link Checker
+name: Scheduled Link Checker
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:    
-    branches:
-      - main
-
+  repository_dispatch:
   workflow_dispatch:
-    inputs:
-      tag:
-        description: Tag for manually checking links
-        required: False
-        default: ""
+  schedule:
+    - cron: "00 09 19 * *" # Runs every month on the 19th at 11:00 (Amsterdam timezone, CEST)
 
 jobs:
   linkChecker:
