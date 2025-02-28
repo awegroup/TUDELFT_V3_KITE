@@ -2,6 +2,8 @@
 This repository aims to be a place where all things related to the TUDELFT_V3_KITE are gathered.
 The repository mainly contains links, which point toward, literature, data, and code.
 
+You can view this project at [TUDELFT_V3_KITE](https://awegroup.github.io/TUDELFT_V3_KITE)
+
 ### [Literature](docs/literature.md)
 
 ### [Datasets](docs/datasets.md)
