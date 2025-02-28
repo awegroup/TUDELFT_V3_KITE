@@ -1,7 +1,17 @@
 # Description
-This a data repository, containing files and links to all data related to the TUDELFT_V3_KITE.
+This repository aims to be a place where all things related to the TUDELFT_V3_KITE are gathered.
+The repository mainly contains links, which point toward, literature, data, and code.
 
 ![V3](data/pictures/pre_2014_testing_behind_AE_faculty_Delft_overview.JPG)
+
+
+# Literature
+<details>
+  <summary>2025!</summary>
+- [Cayon, O., Watson, S., and Schmehl, R.: Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems, Wind Energ. Sci. Discuss. [preprint], https://doi.org/10.5194/wes-2024-182, in review, 2025.](https://doi.org/10.5194/wes-2024-182)
+- 
+</details>
+
 
 ## :gear: Installation
 
