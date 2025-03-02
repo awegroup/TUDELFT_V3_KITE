@@ -74,45 +74,53 @@
 - [van Reijen, M.R.: The turning of kites, a quantification of known theories, MSc Thesis, Delft University of Technology, 2018.](https://resolver.tudelft.nl/uuid:5836c754-68d3-477a-be32-8e1878f85eac)
 
 ## 2017 {.unnumbered}
+
 **Published and peer-reviewed**
+
 **MSc Thesis** 
 - [Sachdeva, S.: Impact of Turning-Induced Shape Deformations on Aerodynamic Performance of Leading Edge Inflatable Kites, MSc Thesis, Delft University of Technology, 2017.](https://resolver.tudelft.nl/uuid:3dd54665-f48c-4e48-9f57-dc285cece612)
 
 ## 2016 {.unnumbered}
+
 **Published and peer-reviewed**
-**MSc Thesis** 
 - [Fechner, U.: A Methodology for the Design of Kite-Power Control Systems, PhD Thesis, Delft University of Technology, 2016.](https://doi.org/10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77)
+**MSc Thesis** 
+
 
 ## 2015 {.unnumbered}
+
 **Published and peer-reviewed**
-**MSc Thesis** 
 - [Fechner, U., Van der Vlugt, R., Schreuder, E. and Schmehl, R.: Dynamic Model of a Pumping Kite Power System, Renewable Energy, 83:705–716, 2015.](https://doi.org/10.1016/j.renene.2015.04.028)
+
+**MSc Thesis** 
 - [Leuthold, R.C.: Multiple-Wake Vortex Lattice Method for Membrane Wing Kites, Masters Thesis, Delft University of Technology, 2015.](http://resolver.tudelft.nl/uuid:4c2f34c2-d465-491a-aa64-d991978fedf4)
 - [Berens, J.: Dynamic Nonlinear Aeroelastic Behaviour of Flexible Wings in an Airflow, MSc Thesis, Delft University of Technology, Mar. 20, 2015.](https://resolver.tudelft.nl/uuid:aa859e12-1087-46a5-80c6-7e63053a017a)
 
 ## 2014 {.unnumbered}
+
 **Published and peer-reviewed**
-**MSc Thesis** 
-- [Geschiere, N.H.: Dynamic modelling of a flexible kite for power generation: Coupling a fluid-structure solver to a dynamic particle system, Masters Thesis, Delft University of Technology, 2014.](https://resolver.tudelft.nl/uuid:6478003a-3c77-40ce-862e-24579dcd1eab)
 - [Jehle, C. and Schmehl, R.: Applied Tracking Control for Kite Power Systems, Journal of Guidance, Control, and Dynamics, 37(4):1211–1222, 2014.](https://doi.org/10.2514/1.62380)
 - [Bosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Dynamic nonlinear aeroelastic model of a kite for power generation, Journal of Guidance, Control and Dynamics, 37(5):1426–1436, 2014.](https://doi.org/10.2514/1.G000545)
 
-## 2013 {.unnumbered}
-**Published and peer-reviewed**
 **MSc Thesis** 
+- [Geschiere, N.H.: Dynamic modelling of a flexible kite for power generation: Coupling a fluid-structure solver to a dynamic particle system, Masters Thesis, Delft University of Technology, 2014.](https://resolver.tudelft.nl/uuid:6478003a-3c77-40ce-862e-24579dcd1eab)
+
+## 2013 {.unnumbered}
+
+**Published and peer-reviewed**
 - [Van der Vlugt, R., Peschel, J. and Schmehl, R.: Design and Experimental Characterization of a Pumping Kite Power System, in *Airborne Wind Energy*, Green Energy and Technology, Springer, Chapter 23, 403–425, 2013.](https://doi.org/10.1007/978-3-642-39965-7_23)
 - [Breukels, J., Schmehl, R. and Ockels, W.: Aeroelastic Simulation of Flexible Membrane Wings based on Multibody System Dynamics, in *Airborne Wind Energy*, Green Energy and Technology, Springer, Chapter 16, 287–305, 2013.](https://doi.org/10.1007/978-3-642-39965-7_16)
 - [Bosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Nonlinear Aeroelasticity, Flight Dynamics and Control of a Flexible Membrane Traction Kite, in *Airborne Wind Energy*, Springer, Chap. 17, 307–323, 2013.](https://doi.org/10.1007/978-3-642-39965-7_17)
+
+**MSc Thesis** 
 - [van der Knaap, E.F.: A Particle System Approach for Modelling Flexible Wings with Inflatable Support Structures, MSc Thesis, Delft University of Technology, 2013.](https://resolver.tudelft.nl/uuid:c77c5c6a-0bf7-47d5-b5bf-c5efac0c2d83)
 
 ## 2012 {.unnumbered}
+
 **Published and peer-reviewed**
+
 **MSc Thesis** 
 - [Bosch, H.A.: Finite Element Analysis of a Kite for Power Generation, Masters Thesis, Delft University of Technology, 2012.](http://resolver.tudelft.nl/uuid:888fe64a-b101-438c-aa6f-8a0b34603f8e)
 - [Schwoll, J.: Finite Element Analysis of Inflatable Structures Using Uniform Pressure, Masters Thesis, Delft University of Technology, 2012.](http://resolver.tudelft.nl/uuid:f92da57f-55df-4109-9f8a-8c7c2b220c6a)
 - [van Kappel, R.: Aerodynamic Analysis Tool for Dynamic Leading Edge Inflated Kite Models: A Non-Linear Vortex Lattice Method, MSc Thesis, Delft University of Technology, 2012.](https://resolver.tudelft.nl/uuid:385d316b-c997-4a02-b0f3-b30c40fffc32)
 
-## 2011 {.unnumbered}
-**Published and peer-reviewed**
-**MSc Thesis** 
-- [Breukels, J.: An Engineering Methodology for Kite Design, PhD Thesis, Delft University of Technology, 2011.](http://resolver.tudelft.nl/uuid:cdece38a-1f13-47cc-b277-ed64fdda7cdf)
