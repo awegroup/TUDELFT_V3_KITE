@@ -7,7 +7,7 @@ Here you will find links pointing toward, literature, data, and code.
 
 ### [Datasets](docs/datasets.md) {.unnumbered}
 
-### [Code bases/Repositories](docs/repositories.md) {.unnumbered}
+### [Code bases/Repositories](docs/code_bases.md) {.unnumbered}
 
 ## WAIVER {.unnumbered}
 
