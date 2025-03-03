@@ -244,7 +244,7 @@
     "href": "docs/code_bases.html#aerodynamic",
     "title": "Code bases / Repositories",
     "section": "Aerodynamic",
-    "text": "Aerodynamic\n“Vortex-Step-Method”: A fast aerodynamic model tailored for kites, also includes bridle drag.\n“Pointwise-OpenFoam-toolchain”: containing automic meshing scripts for a given 2D Airfoil, with the python version tailored to LEI kites",
+    "text": "Aerodynamic\n“Vortex-Step-Method”: A fast aerodynamic model tailored for kites, also includes bridle drag.\n\n“Pointwise-OpenFoam-toolchain”: containing automatic meshing scripts for a given 2D Airfoil, with the python version tailored to LEI kites (not yet public",
     "crumbs": [
       "Code bases / Repositories"
     ]
