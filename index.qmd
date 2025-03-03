@@ -11,8 +11,8 @@ Here you will find links pointing toward, literature, data, and code.
 
 <iframe 
   src="https://delftxtools.tudelft.nl/AE4T40_Airborne_Wind_Energy/cycle/kiteV3_total_crosswind.html" 
-  width="800" 
-  height="600" 
+  width="500" 
+  height="400" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
