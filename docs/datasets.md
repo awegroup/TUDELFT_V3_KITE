@@ -1,8 +1,40 @@
 # Datasets {.unnumbered}
 
-## Geometric Data  {.unnumbered}
-- Surfplan Exported Geometry File, see the folder: `data/surfplan_export` which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
-- CAD Files
+## General Properties
+
+[in .yaml format](../data/properties.yaml)
+
+| Property | TUDELFT_V3_KITE |
+|----------|-------|
+| Flat area (m²) | 25 |
+| Number of struts (-) | 8 |
+| Flat wing span (m) | 11.18 |
+| Flat maximum chord (m) | 2.63 |
+| Flat aspect ratio (-) | 5 |
+| Projected area (m²) | 19.753 |
+| Projected wing span (m) | 8.32 |
+| Projected wing height (m) | 3.13 |
+| Projected aspect ratio (-) | 3.498 |
+| Side view area (m²) | 5.646 |
+| Leading edge 3D length (m) | 11.302 |
+| Trailing edge 3D length (m) | 11.249 |
+| CoG wing in x-dir. (%) | 54 |
+| CoG wing in z-dir. (%) | 34.3 |
+| Ixx wing (kgm²) | 84.79 |
+| Iyy wing (kgm²) | 13.23 |
+| Izz wing (kgm²) | 83.01 |
+| Ixz wing (kgm²) | -0.66 |
+| Bridle height (m) | 9.60 |
+| Number of bridle lines (-) | 82 |
+| Total length bridle lines (m) | 96 |
+| Number of pulleys in bridle | 0 |
+| Wing and bridle mass (kg) | 10.6 |
+| Nominal pulling force (N) | 5800 |
+
+
+## Geometric Data
+- [CAD .stp file, developed by G.Lebesque during his MSc project 2020](../data/geometry/CAD/TUDELFT_V3_KITE_CAD_Mesh_DevelopedByLebesque_DuringMSc_2020.stp)
+- [Surfplan Exported Geometry Files](../data/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
 
 ## Flight Data {.unnumbered}
 - - [Oehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.](https://doi.org/10.4121/uuid:37264fde-2344-4af2-860c-effda9caa3e8)

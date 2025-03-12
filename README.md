@@ -4,11 +4,9 @@ The repository mainly contains links, which point toward, literature, data, and 
 
 You can view this project at [TUDELFT_V3_KITE](https://awegroup.github.io/TUDELFT_V3_KITE)
 
-![pre_2014_testing_behind_AE_faculty_TUDELFT_1](data/images/TUDELFT_V3_KITE_image_collection.png)
-*Top two images are taken while testing behind the Aerospace Engineering Faculty of TU Delf (pre 
-2014)* 
-*The middle two images are from a Wind Tunnel Campaign in the Open-Jet Facility of the TU Delft (April 2024)*
-*The bottom image is from the preprint of: [Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems 2025](https://doi.org/10.5194/wes-2024-182)*
+![Top two images are taken while testing behind the Aerospace Engineering Faculty of TU Delf (pre 2014)
+The middle two images are from a Wind Tunnel Campaign in the Open-Jet Facility of the TU Delft (April 2024)
+The bottom image is from the preprint of: [Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems 2025](https://doi.org/10.5194/wes-2024-182)](data/images/TUDELFT_V3_KITE_image_collection.png)
 
 
 ## WAIVER

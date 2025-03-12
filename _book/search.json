@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "TUDELFT_V3_KITE",
     "section": "",
-    "text": "Introduction\nWelcome to the website where all things related to the TUDELFT_V3_KITE are gathered. Here you will find links pointing toward, literature, data, and code.",
+    "text": "Introduction\nWelcome to the website where all things related to the TUDELFT_V3_KITE are gathered! Here you will find links pointing toward: Literature, Datasets, Code bases/Repositories and Media.",
     "crumbs": [
       "Introduction"
     ]
@@ -164,7 +164,17 @@
     "href": "docs/datasets.html",
     "title": "Datasets",
     "section": "",
-    "text": "Geometric Data",
+    "text": "General Properties\nin .yaml format",
+    "crumbs": [
+      "Datasets"
+    ]
+  },
+  {
+    "objectID": "docs/datasets.html#general-properties",
+    "href": "docs/datasets.html#general-properties",
+    "title": "Datasets",
+    "section": "",
+    "text": "Property\nTUDELFT_V3_KITE\n\n\n\n\nFlat area (m²)\n25\n\n\nNumber of struts (-)\n8\n\n\nFlat wing span (m)\n11.18\n\n\nFlat maximum chord (m)\n2.63\n\n\nFlat aspect ratio (-)\n5\n\n\nProjected area (m²)\n19.753\n\n\nProjected wing span (m)\n8.32\n\n\nProjected wing height (m)\n3.13\n\n\nProjected aspect ratio (-)\n3.498\n\n\nSide view area (m²)\n5.646\n\n\nLeading edge 3D length (m)\n11.302\n\n\nTrailing edge 3D length (m)\n11.249\n\n\nCoG wing in x-dir. (%)\n54\n\n\nCoG wing in z-dir. (%)\n34.3\n\n\nIxx wing (kgm²)\n84.79\n\n\nIyy wing (kgm²)\n13.23\n\n\nIzz wing (kgm²)\n83.01\n\n\nIxz wing (kgm²)\n-0.66\n\n\nBridle height (m)\n9.60\n\n\nNumber of bridle lines (-)\n82\n\n\nTotal length bridle lines (m)\n96\n\n\nNumber of pulleys in bridle\n0\n\n\nWing and bridle mass (kg)\n10.6\n\n\nNominal pulling force (N)\n5800",
     "crumbs": [
       "Datasets"
     ]
@@ -173,8 +183,8 @@
     "objectID": "docs/datasets.html#geometric-data",
     "href": "docs/datasets.html#geometric-data",
     "title": "Datasets",
-    "section": "",
-    "text": "Surfplan Exported Geometry File, see the folder: data/surfplan_export which can be analyzed using SurfplanAdapter.\nCAD Files",
+    "section": "Geometric Data",
+    "text": "Geometric Data\n\nCAD .stp file, developed by G.Lebesque during his MSc project 2020\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
     "crumbs": [
       "Datasets"
     ]
@@ -254,7 +264,7 @@
     "href": "docs/media.html",
     "title": "Media",
     "section": "",
-    "text": "System overview\nSystem overview of the V3, with optional launch mast. Made by: “Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433”\n\n\n\nV3_overview\n\n\n\n\nFlight path illustration\n [30]: Friedl, F.: Fault-Tolerant Design of a Pumping Kite Power Flight Control System. M.Sc. Thesis, FH Joanneum, University of Applied Sciences, Graz, Austria, 9 Feb 2015. http://resolver.tudelft. nl/uuid:e704e8aa-2371-437b-8de9-80b3b7067241\nSystems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433\n\n\nThe kite itself\nThe TU Delft V3 kite with 25 m2 wing surface area is a custom development by kite designer Martial Camblong, creator of the brand Genetrix, in close collaboration with TU Delft team members John van den Heuvel and Rolf van der Vlugt.\n\n\n\nV3_overview\n\n\nThe kite also deforms heavily, although the right photo here is not representative for nominal flight operation but caused by an extreme steering input in combination with an only lightly loaded wing during a launching maneuver from an upside-down hanging position.\n\n\n\nV3_overview\n\n\n\n\nSystem Components\nAn illustration of the system components, their labels and general dimensions.\n\n\n\nV3_overview\n\n\n\n\nKCU details\n\n\n\nV3_overview\n\n\nThe height (with tape guide), width and length of the KCU without exterior foam padding, as displayed in Fig. 15, is 32.7, 24.4 and 30.5 cm. Because of the space constraints under the shorter cover, the longer cover was quickly used on both sides, which increased the length without foam padding to 39 cm. With exterior foam padding this elongated but symmetric design had a height, width and length of 36, 30 and 53 cm, which takes into account the storage pouch for the progressive-tearing energy absorber.\nIn the considered time frame from 2010 until 2015, the mass of the KCU increased from initially 5 to 8.4 kg. The mass of the KCU including weak link and entire bridle line system, but excluding wing-mounted sensors and Pitot sensor, is 9 kg. The KCU is connected with the ground control computer via a fast and a separate slow wireless link. The link quality (latency) was recorded during the test flights. A fixed data rate of 20 Hz in both directions was used. The data from the angular encoders were recorded, as were the motor temperatures and the battery voltage.\n\n\nTether details\nThe tether is a 16-strand plaited hollow braid rope made of Dyneema® SK75, with a diameter of 4 mm, a mean breaking load of 13.5 kN, a mean breaking strain of 3.5% and a mass of 0.91 kg per 100 m.",
+    "text": "System overview\n\n\n\nSystem overview of the V3, with optional launch mast. Made by: “Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433”\n\n\n\n\nFlight path illustration\n\n\n\n[30]: Friedl, F.: Fault-Tolerant Design of a Pumping Kite Power Flight Control System. M.Sc. Thesis, FH Joanneum, University of Applied Sciences, Graz, Austria, 9 Feb 2015. http://resolver.tudelft.nl/uuid:e704e8aa-2371-437b-8de9-80b3b7067241 [31]: Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433\n\n\n\n\nKite\n\n\n\nThe TU Delft V3 kite with 25 m2 wing surface area is a custom development by kite designer Martial Camblong, creator of the brand Genetrix, in close collaboration with TU Delft team members John van den Heuvel and Rolf van der Vlugt.\n\n\n\n\n\nThe kite also deforms heavily, although the right photo here is not representative for nominal flight operation but caused by an extreme steering input in combination with an only lightly loaded wing during a launching maneuver from an upside-down hanging position.\n\n\n\n\nSystem Components\n\n\n\nAn illustration of the system components, their labels and general dimensions.\n\n\n\n\n\nProperty\nTUDELFT_V3_KITE\n\n\n\n\nFlat area (m²)\n25\n\n\nNumber of struts (-)\n8\n\n\nFlat wing span (m)\n11.18\n\n\nFlat maximum chord (m)\n2.63\n\n\nFlat aspect ratio (-)\n5\n\n\nProjected area (m²)\n19.753\n\n\nProjected wing span (m)\n8.32\n\n\nProjected wing height (m)\n3.13\n\n\nProjected aspect ratio (-)\n3.498\n\n\nSide view area (m²)\n5.646\n\n\nLeading edge 3D length (m)\n11.302\n\n\nTrailing edge 3D length (m)\n11.249\n\n\nCoG wing in x-dir. (%)\n54\n\n\nCoG wing in z-dir. (%)\n34.3\n\n\nIxx wing (kgm²)\n84.79\n\n\nIyy wing (kgm²)\n13.23\n\n\nIzz wing (kgm²)\n83.01\n\n\nIxz wing (kgm²)\n-0.66\n\n\nBridle height (m)\n9.60\n\n\nNumber of bridle lines (-)\n82\n\n\nTotal length bridle lines (m)\n96\n\n\nNumber of pulleys in bridle\n0\n\n\nWing and bridle mass (kg)\n10.6\n\n\nNominal pulling force (N)\n5800\n\n\n\n\n\nKCU details\nThe height (with tape guide), width and length of the KCU without exterior foam padding, as displayed in Fig. 15, is 32.7, 24.4 and 30.5 cm. Because of the space constraints under the shorter cover, the longer cover was quickly used on both sides, which increased the length without foam padding to 39 cm. With exterior foam padding this elongated but symmetric design had a height, width and length of 36, 30 and 53 cm, which takes into account the storage pouch for the progressive-tearing energy absorber.\n\n\n\nCAD view of the KCU\n\n\nIn the considered time frame from 2010 until 2015, the mass of the KCU increased from initially 5 to 8.4 kg. The mass of the KCU including weak link and entire bridle line system, but excluding wing-mounted sensors and Pitot sensor, is 9 kg. The KCU is connected with the ground control computer via a fast and a separate slow wireless link. The link quality (latency) was recorded during the test flights. A fixed data rate of 20 Hz in both directions was used. The data from the angular encoders were recorded, as were the motor temperatures and the battery voltage.\n\n\nTether details\nThe tether is a 16-strand plaited hollow braid rope made of Dyneema® SK75, with a diameter of 4 mm, a mean breaking load of 13.5 kN, a mean breaking strain of 3.5% and a mass of 0.91 kg per 100 m.\n\n\nOther\nflight-path-animation\nthreejs model, with a “save to SVG” button",
     "crumbs": [
       "Media"
     ]
