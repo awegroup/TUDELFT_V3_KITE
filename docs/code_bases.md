@@ -16,5 +16,5 @@
 
 ["Vortex-Step-Method": A fast aerodynamic model tailored for kites, also includes bridle drag.](https://github.com/ocayon/Vortex-Step-Method)
 
-["Pointwise-OpenFoam-toolchain": containing automic meshing scripts for a given 2D Airfoil, with the python version tailored to LEI kites](https://github.com/awegroup/Pointwise-Openfoam-toolchain)
+- "Pointwise-OpenFoam-toolchain": containing automatic meshing scripts for a given 2D Airfoil, with the python version tailored to LEI kites (not yet public
 
