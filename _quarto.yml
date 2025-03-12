@@ -20,6 +20,7 @@ book:
     #   - docs/literature.md
     - docs/datasets.md
     - docs/code_bases.md
+    - docs/media.md
   # appendices: 
   #   - docs/appendix_example.md
 
