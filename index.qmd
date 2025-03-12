@@ -9,13 +9,61 @@ Here you will find links pointing toward, literature, data, and code.
 
 ### [Code bases/Repositories](docs/code_bases.md) {.unnumbered}
 
-<iframe 
-  src="https://delftxtools.tudelft.nl/AE4T40_Airborne_Wind_Energy/cycle/kiteV3_total_crosswind.html" 
-  width="500" 
-  height="400" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+### [Media](docs/media.md) {.unnumbered}
+
+<style>
+  .iframe-container {
+    position: relative;
+    width: 100%;
+    padding-top: 75%; /* Adjust aspect ratio (height/width) */
+  }
+
+  .iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+<div class="iframe-container">
+  <iframe 
+    src="https://delftxtools.tudelft.nl/AE4T40_Airborne_Wind_Energy/cycle/kiteV3_total_crosswind.html" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Properties {.unnumbered}
+
+| Property | TUDELFT_V3_KITE |
+|----------|-------|
+| Flat area (m²) | 25 |
+| Number of struts (-) | 8 |
+| Flat wing span (m) | 11.18 |
+| Flat maximum chord (m) | 2.63 |
+| Flat aspect ratio (-) | 5 |
+| Projected area (m²) | 19.753 |
+| Projected wing span (m) | 8.32 |
+| Projected wing height (m) | 3.13 |
+| Projected aspect ratio (-) | 3.498 |
+| Side view area (m²) | 5.646 |
+| Leading edge 3D length (m) | 11.302 |
+| Trailing edge 3D length (m) | 11.249 |
+| CoG wing in x-dir. (%) | 54 |
+| CoG wing in z-dir. (%) | 34.3 |
+| Ixx wing (kgm²) | 84.79 |
+| Iyy wing (kgm²) | 13.23 |
+| Izz wing (kgm²) | 83.01 |
+| Ixz wing (kgm²) | -0.66 |
+| Bridle height (m) | 9.60 |
+| Number of bridle lines (-) | 82 |
+| Total length bridle lines (m) | 96 |
+| Number of pulleys in bridle | 0 |
+| Wing and bridle mass (kg) | 10.6 |
+| Nominal pulling force (N) | 5800 |
+
 
 ## WAIVER {.unnumbered}
 

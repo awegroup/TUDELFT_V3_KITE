@@ -29,14 +29,10 @@ The kite also deforms heavily, although the right photo here is not representati
 ![V3_overview](data/images/deforming_kite_power_depower_turn.png)
 
 
-
-
 ### System Components
 An illustration of the system components, their labels and general dimensions.
 
 ![V3_overview](data/images/illustration_with_components.png)
-
-
 
 
 ### KCU details
