@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Code bases / Repositories – TUDELFT_V3_KITE</title>
+<title>Media – TUDELFT_V3_KITE</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../docs/code_bases.html">Code bases / Repositories</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../docs/media.html">Media</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -131,13 +131,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../docs/code_bases.html" class="sidebar-item-text sidebar-link active">
+  <a href="../docs/code_bases.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Code bases / Repositories</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../docs/media.html" class="sidebar-item-text sidebar-link">
+  <a href="../docs/media.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Media</span></a>
   </div>
 </li>
@@ -151,9 +151,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#geometry" id="toc-geometry" class="nav-link active" data-scroll-target="#geometry">Geometry</a></li>
-  <li><a href="#structural-code" id="toc-structural-code" class="nav-link" data-scroll-target="#structural-code">Structural Code</a></li>
-  <li><a href="#aerodynamic" id="toc-aerodynamic" class="nav-link" data-scroll-target="#aerodynamic">Aerodynamic</a></li>
+  <li><a href="#system-overview" id="toc-system-overview" class="nav-link active" data-scroll-target="#system-overview">System overview</a></li>
+  <li><a href="#flight-path-illustration" id="toc-flight-path-illustration" class="nav-link" data-scroll-target="#flight-path-illustration">Flight path illustration</a></li>
+  <li><a href="#the-kite-itself" id="toc-the-kite-itself" class="nav-link" data-scroll-target="#the-kite-itself">The kite itself</a></li>
+  <li><a href="#system-components" id="toc-system-components" class="nav-link" data-scroll-target="#system-components">System Components</a></li>
+  <li><a href="#kcu-details" id="toc-kcu-details" class="nav-link" data-scroll-target="#kcu-details">KCU details</a></li>
+  <li><a href="#tether-details" id="toc-tether-details" class="nav-link" data-scroll-target="#tether-details">Tether details</a></li>
   </ul>
 </nav>
     </div>
@@ -162,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Code bases / Repositories</h1>
+<h1 class="title">Media</h1>
 </div>
 
 
@@ -179,22 +182,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="geometry" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="geometry">Geometry</h2>
-<p><a href="https://github.com/jellepoland/SurfplanAdapter">“SurfplanAdapter”: scripts able to automatically extract kite geometry from a Surfplan file and calculate moment of intertia</a></p>
-<p><a href="https://github.com/awegroup/LEI-strut-in-CATIA">“LEI-strut-in-CATIA”: containing CAD Files, including a strut creating tutorial</a></p>
+<section id="system-overview" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="system-overview">System overview</h3>
+<p>System overview of the V3, with optional launch mast. Made by: “Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="data/images/system_overview.png" class="img-fluid figure-img"></p>
+<figcaption>V3_overview</figcaption>
+</figure>
+</div>
 </section>
-<section id="structural-code" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="structural-code">Structural Code</h2>
-<p><a href="https://github.com/awegroup/Particle_System_Simulator/tree/main">“Particle_System_Simulator”: a particle system model, for analyzing the deformation of line systems and membranes</a></p>
-<p><a href="https://github.com/awegroup/TUD-V3-kite-depower-2plate">“TUD-V3-kite-depower-2plate”: Two-plate model of the depower mechanism, a tetrahedron and trilateration algorithm calculate the width as functions of the bridle length changes</a></p>
+<section id="flight-path-illustration" class="level3">
+<h3 class="anchored" data-anchor-id="flight-path-illustration">Flight path illustration</h3>
+<p><img src="data/images/flight_path_overview.png" class="img-fluid" alt="V3_overview"> [30]: Friedl, F.: Fault-Tolerant Design of a Pumping Kite Power Flight Control System. M.Sc. Thesis, FH Joanneum, University of Applied Sciences, Graz, Austria, 9 Feb 2015. http://resolver.tudelft. nl/uuid:e704e8aa-2371-437b-8de9-80b3b7067241</p>
+<p>Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433</p>
 </section>
-<section id="aerodynamic" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="aerodynamic">Aerodynamic</h2>
-<p><a href="https://github.com/ocayon/Vortex-Step-Method">“Vortex-Step-Method”: A fast aerodynamic model tailored for kites, also includes bridle drag.</a></p>
-<ul>
-<li>“Pointwise-OpenFoam-toolchain”: containing automatic meshing scripts for a given 2D Airfoil, with the python version tailored to LEI kites (not yet public</li>
-</ul>
+<section id="the-kite-itself" class="level3">
+<h3 class="anchored" data-anchor-id="the-kite-itself">The kite itself</h3>
+<p>The TU Delft V3 kite with 25 m2 wing surface area is a custom development by kite designer Martial Camblong, creator of the brand Genetrix, in close collaboration with TU Delft team members John van den Heuvel and Rolf van der Vlugt.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="data/images/V3_launch_mast_flight.png" class="img-fluid figure-img"></p>
+<figcaption>V3_overview</figcaption>
+</figure>
+</div>
+<p>The kite also deforms heavily, although the right photo here is not representative for nominal flight operation but caused by an extreme steering input in combination with an only lightly loaded wing during a launching maneuver from an upside-down hanging position.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="data/images/deforming_kite_power_depower_turn.png" class="img-fluid figure-img"></p>
+<figcaption>V3_overview</figcaption>
+</figure>
+</div>
+</section>
+<section id="system-components" class="level3">
+<h3 class="anchored" data-anchor-id="system-components">System Components</h3>
+<p>An illustration of the system components, their labels and general dimensions.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="data/images/illustration_with_components.png" class="img-fluid figure-img"></p>
+<figcaption>V3_overview</figcaption>
+</figure>
+</div>
+</section>
+<section id="kcu-details" class="level3">
+<h3 class="anchored" data-anchor-id="kcu-details">KCU details</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="data/images/KCU_CAD.png" class="img-fluid figure-img"></p>
+<figcaption>V3_overview</figcaption>
+</figure>
+</div>
+<p>The height (with tape guide), width and length of the KCU without exterior foam padding, as displayed in Fig. 15, is 32.7, 24.4 and 30.5 cm. Because of the space constraints under the shorter cover, the longer cover was quickly used on both sides, which increased the length without foam padding to 39 cm. With exterior foam padding this elongated but symmetric design had a height, width and length of 36, 30 and 53 cm, which takes into account the storage pouch for the progressive-tearing energy absorber.</p>
+<p>In the considered time frame from 2010 until 2015, the mass of the KCU increased from initially 5 to 8.4 kg. The mass of the KCU including weak link and entire bridle line system, but excluding wing-mounted sensors and Pitot sensor, is 9 kg. The KCU is connected with the ground control computer via a fast and a separate slow wireless link. The link quality (latency) was recorded during the test flights. A fixed data rate of 20 Hz in both directions was used. The data from the angular encoders were recorded, as were the motor temperatures and the battery voltage.</p>
+</section>
+<section id="tether-details" class="level3">
+<h3 class="anchored" data-anchor-id="tether-details">Tether details</h3>
+<p>The tether is a 16-strand plaited hollow braid rope made of Dyneema® SK75, with a diameter of 4 mm, a mean breaking load of 13.5 kN, a mean breaking strain of 3.5% and a mass of 0.91 kg per 100 m.</p>
 
 
 </section>
