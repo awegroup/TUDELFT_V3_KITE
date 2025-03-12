@@ -151,7 +151,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#geometric-data" id="toc-geometric-data" class="nav-link active" data-scroll-target="#geometric-data">Geometric Data</a></li>
+  <li><a href="#general-properties" id="toc-general-properties" class="nav-link active" data-scroll-target="#general-properties">General Properties</a></li>
+  <li><a href="#geometric-data" id="toc-geometric-data" class="nav-link" data-scroll-target="#geometric-data">Geometric Data</a></li>
   <li><a href="#flight-data" id="toc-flight-data" class="nav-link" data-scroll-target="#flight-data">Flight Data</a></li>
   <li><a href="#wind-tunnel-data" id="toc-wind-tunnel-data" class="nav-link" data-scroll-target="#wind-tunnel-data">Wind Tunnel Data</a></li>
   <li><a href="#aerodynamic-results" id="toc-aerodynamic-results" class="nav-link" data-scroll-target="#aerodynamic-results">Aerodynamic Results</a></li>
@@ -181,11 +182,121 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="geometric-data" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="geometric-data">Geometric Data</h2>
+<section id="general-properties" class="level2">
+<h2 class="anchored" data-anchor-id="general-properties">General Properties</h2>
+<p><a href="../data/properties.yaml">in .yaml format</a></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>TUDELFT_V3_KITE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Flat area (m²)</td>
+<td>25</td>
+</tr>
+<tr class="even">
+<td>Number of struts (-)</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Flat wing span (m)</td>
+<td>11.18</td>
+</tr>
+<tr class="even">
+<td>Flat maximum chord (m)</td>
+<td>2.63</td>
+</tr>
+<tr class="odd">
+<td>Flat aspect ratio (-)</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>Projected area (m²)</td>
+<td>19.753</td>
+</tr>
+<tr class="odd">
+<td>Projected wing span (m)</td>
+<td>8.32</td>
+</tr>
+<tr class="even">
+<td>Projected wing height (m)</td>
+<td>3.13</td>
+</tr>
+<tr class="odd">
+<td>Projected aspect ratio (-)</td>
+<td>3.498</td>
+</tr>
+<tr class="even">
+<td>Side view area (m²)</td>
+<td>5.646</td>
+</tr>
+<tr class="odd">
+<td>Leading edge 3D length (m)</td>
+<td>11.302</td>
+</tr>
+<tr class="even">
+<td>Trailing edge 3D length (m)</td>
+<td>11.249</td>
+</tr>
+<tr class="odd">
+<td>CoG wing in x-dir. (%)</td>
+<td>54</td>
+</tr>
+<tr class="even">
+<td>CoG wing in z-dir. (%)</td>
+<td>34.3</td>
+</tr>
+<tr class="odd">
+<td>Ixx wing (kgm²)</td>
+<td>84.79</td>
+</tr>
+<tr class="even">
+<td>Iyy wing (kgm²)</td>
+<td>13.23</td>
+</tr>
+<tr class="odd">
+<td>Izz wing (kgm²)</td>
+<td>83.01</td>
+</tr>
+<tr class="even">
+<td>Ixz wing (kgm²)</td>
+<td>-0.66</td>
+</tr>
+<tr class="odd">
+<td>Bridle height (m)</td>
+<td>9.60</td>
+</tr>
+<tr class="even">
+<td>Number of bridle lines (-)</td>
+<td>82</td>
+</tr>
+<tr class="odd">
+<td>Total length bridle lines (m)</td>
+<td>96</td>
+</tr>
+<tr class="even">
+<td>Number of pulleys in bridle</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>Wing and bridle mass (kg)</td>
+<td>10.6</td>
+</tr>
+<tr class="even">
+<td>Nominal pulling force (N)</td>
+<td>5800</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="geometric-data" class="level2">
+<h2 class="anchored" data-anchor-id="geometric-data">Geometric Data</h2>
 <ul>
-<li>Surfplan Exported Geometry File, see the folder: <code>data/surfplan_export</code> which can be analyzed using <a href="https://github.com/jellepoland/SurfplanAdapter">SurfplanAdapter</a>.</li>
-<li>CAD Files</li>
+<li><a href="../data/geometry/CAD/TUDELFT_V3_KITE_CAD_Mesh_DevelopedByLebesque_DuringMSc_2020.stp">CAD .stp file, developed by G.Lebesque during his MSc project 2020</a></li>
+<li><a href="../data/surfplan_export">Surfplan Exported Geometry Files</a> which can be analyzed using <a href="https://github.com/jellepoland/SurfplanAdapter">SurfplanAdapter</a>.</li>
 </ul>
 </section>
 <section id="flight-data" class="level2 unnumbered">

@@ -1,0 +1,25 @@
+TU_Delft_V3_Kite:
+  flat_area_m2: 25
+  number_of_struts: 8
+  flat_wing_span_m: 11.18
+  flat_maximum_chord_m: 2.63
+  flat_aspect_ratio: 5
+  projected_area_m2: 19.753
+  projected_wing_span_m: 8.32
+  projected_wing_height_m: 3.13
+  projected_aspect_ratio: 3.498
+  side_view_area_m2: 5.646
+  leading_edge_3d_length_m: 11.302
+  trailing_edge_3d_length_m: 11.249
+  cog_wing_x_dir_percent: 54
+  cog_wing_z_dir_percent: 34.3
+  ixx_wing_kgm2: 84.79
+  iyy_wing_kgm2: 13.23
+  izz_wing_kgm2: 83.01
+  ixz_wing_kgm2: -0.66
+  bridle_height_m: 9.60
+  number_of_bridle_lines: 82
+  total_length_bridle_lines_m: 96
+  number_of_pulleys_in_bridle: 0
+  wing_and_bridle_mass_kg: 10.6
+  nominal_pulling_force_n: 5800
