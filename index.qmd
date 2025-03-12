@@ -12,13 +12,15 @@ Here you will find links pointing toward, literature, data, and code.
 ### [Media](docs/media.md) {.unnumbered}
 
 <style>
-  .iframe-container {
+  .responsive-iframe-container {
     position: relative;
+    overflow: hidden;
     width: 100%;
-    padding-top: 75%; /* Adjust aspect ratio (height/width) */
+    /* Adjust this value based on your content's actual aspect ratio */
+    padding-top: 65%; 
   }
-
-  .iframe-container iframe {
+  
+  .responsive-iframe-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -28,13 +30,12 @@ Here you will find links pointing toward, literature, data, and code.
   }
 </style>
 
-<div class="iframe-container">
+<div class="responsive-iframe-container">
   <iframe 
     src="https://delftxtools.tudelft.nl/AE4T40_Airborne_Wind_Energy/cycle/kiteV3_total_crosswind.html" 
     allowfullscreen>
   </iframe>
 </div>
-
 ### Properties {.unnumbered}
 
 | Property | TUDELFT_V3_KITE |
