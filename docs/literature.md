@@ -30,15 +30,18 @@
 - [Watchorn, P.: Aerodynamic Load Modelling for Leading Edge Inflatable Kites, Masters Thesis, Delft University of Technology, 2023.](http://resolver.tudelft.nl/uuid:42f611a2-ef79-4540-a43c-0ea827700388)
 
 ## 2022 {.unnumbered}
-**Published and peer-reviewed**
-**MSc Thesis** 
 
+**Published and peer-reviewed**
+
+**MSc Thesis** 
 - [Declercq, P.-J.: Aeroelastic analysis of a soft kite for airborne wind energy, MSc Thesis (Master of Science in Electromechanical Engineering, EMELMEME), UGent. Faculteit Ingenieurswetenschappen en Architectuur, 2022.](https://lib.ugent.be/catalog/rug01:003063362)
 - [Poland, J.A.W.: Modelling aeroelastic deformation of soft wing membrane kites, Masters Thesis, Delft University of Technology, 2022.](http://resolver.tudelft.nl/uuid:39d67249-53c9-47b4-84c0-ddac948413a5)
 - [Cayon, O.: Fast aeroelastic model of a leading-edge inflatable kite, Masters Thesis, Delft University of Technology, 2022.](http://resolver.tudelft.nl/uuid:aede2a25-4776-473a-8a75-fb6b17b1a690)
 
 ## 2021 {.unnumbered}
+
 **Published and peer-reviewed**
+
 **MSc Thesis** 
 - [Viré, A., Lebesque, G., Folkersma, M. and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15(4):1450, 2021.](https://doi.org/10.3390/en15041450)
 
