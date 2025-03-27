@@ -15,4 +15,4 @@ Technische Universiteit Delft hereby disclaims all copyright interest in the pac
 Prof.dr. H.G.C. (Henri) Werij, Dean of Aerospace Engineering
 
 ### Copyright
-Copyright (c) 2024 Jelle Poland, TU Delft
+Copyright (c) 2024 Jelle Poland, Roland Schmehl
