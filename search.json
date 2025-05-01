@@ -184,7 +184,7 @@
     "href": "docs/datasets.html#geometric-data",
     "title": "Datasets",
     "section": "Geometric Data",
-    "text": "Geometric Data\n\nCAD .stp file, developed by G.Lebesque during his MSc project 2020\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
+    "text": "Geometric Data\n\nCAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
     "crumbs": [
       "Datasets"
     ]
