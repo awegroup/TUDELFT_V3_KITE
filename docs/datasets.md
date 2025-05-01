@@ -33,7 +33,7 @@
 
 
 ## Geometric Data
-- [CAD .stp file, developed by G.Lebesque during his MSc project 2020](../data/geometry/CAD/TUDELFT_V3_KITE_CAD_Mesh_DevelopedByLebesque_DuringMSc_2020.stp)
+- [CAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
 - [Surfplan Exported Geometry Files](../data/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
 
 ## Flight Data {.unnumbered}
