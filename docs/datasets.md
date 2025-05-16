@@ -31,6 +31,10 @@
 | Wing and bridle mass (kg) | 10.6 |
 | Nominal pulling force (N) | 5800 |
 
+## Aerodynamic Data {.unnumbered}
+- [Aerodynamic data of the TUDELFT_V3_KITE](../data/aerodynamic/3D/README.md)
+
+
 
 ## Geometric Data
 - [CAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
@@ -48,10 +52,6 @@
 - Zenodo doi to Load paper, and add code link
 - Zendo doi to 
 
-## Aerodynamic Results {.unnumbered}
-
-- Zenodo doi to Lebesque's work
-- Zenodo doi to Demkowicz work
 
 ## Structural Results {.unnumbered}
 
