@@ -180,6 +180,16 @@
     ]
   },
   {
+    "objectID": "docs/datasets.html#aerodynamic-data",
+    "href": "docs/datasets.html#aerodynamic-data",
+    "title": "Datasets",
+    "section": "Aerodynamic Data",
+    "text": "Aerodynamic Data\n\nAerodynamic data of the TUDELFT_V3_KITE",
+    "crumbs": [
+      "Datasets"
+    ]
+  },
+  {
     "objectID": "docs/datasets.html#geometric-data",
     "href": "docs/datasets.html#geometric-data",
     "title": "Datasets",
@@ -205,16 +215,6 @@
     "title": "Datasets",
     "section": "Wind Tunnel Data",
     "text": "Wind Tunnel Data\n\nZenodo doi to Load paper, and add code link\nZendo doi to",
-    "crumbs": [
-      "Datasets"
-    ]
-  },
-  {
-    "objectID": "docs/datasets.html#aerodynamic-results",
-    "href": "docs/datasets.html#aerodynamic-results",
-    "title": "Datasets",
-    "section": "Aerodynamic Results",
-    "text": "Aerodynamic Results\n\nZenodo doi to Lebesque’s work\nZenodo doi to Demkowicz work",
     "crumbs": [
       "Datasets"
     ]
