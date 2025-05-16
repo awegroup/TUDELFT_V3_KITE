@@ -37,6 +37,7 @@ The CFD data includes lift, drag, and side-force coefficients as functions of an
 *Reference frame as used by Poland2025*
 
 **CFD data:**
+
 - [CFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv](../data/aerodynamic/3D/CFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv)
   
 - [CFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv](../data/aerodynamic/3D/CFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv)
@@ -66,6 +67,7 @@ The CFD data includes lift, drag, and side-force coefficients as functions of an
 - [CFD_RANS_Re15e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv](../data/aerodynamic/3D/CFD_RANS_Re15e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv)
 
 **WindTunnel data:**
+
 - [WindTunnel_Re5e5_alpha_sweep_beta_0_Poland2025.csv](../data/aerodynamic/3D/WindTunnel_Re5e5_alpha_sweep_beta_0_Poland2025.csv)
   
 - [WindTunnel_Re5e5_beta_sweep_alpha_7_Poland2025.csv](../data/aerodynamic/3D/WindTunnel_Re5e5_beta_sweep_alpha_7_Poland2025.csv)
@@ -101,6 +103,7 @@ Definitions of the variables:
 - CMz: Yaw moment coefficient = Mz / (0.5 * rho * V^2 * A * c)
 
 Where:
+
 - A: Reference area
   
 - rho: Air density
@@ -110,6 +113,7 @@ Where:
 - c: Chord length 
 
 **Name Explanation**
+
 - CFD: Computational Fluid Dynamics
   
 - RANS: Reynolds-Averaged Navier-Stokes
@@ -131,17 +135,21 @@ Where:
 
 - Poland2025: The data are presented in the paper:
      > *Poland, J. A. W., van Spronsen, J. M., Gaunaa, M., and Schmehl, R.: Wind Tunnel Load Measurements of a Leading-Edge Inflatable Kite Rigid Scale Model, Wind Energ. Sci. Discuss. [preprint], https://doi.org/10.5194/wes-2025-77, in review, 2025.*
-     
+
 - CorrectedByPoland2025: The data are corrected by a 1.02° offset in the geometric angle of attack (the angle between the horizontal plane and the vector from mid-span leading-edge to trailing-edge). Furthermore the CS values, are non-dimensionalized by the projected area of the model, rather than the projected side area of the kite. Lastly, as a new axis system has been adopted, the orientation has been swapped, i.e. CS_new = -CS_old. The correction is presented in Poland2025.
 
 
 
 ## Geometric Data
+
 - [CAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
+
 - [Surfplan Exported Geometry Files](../data/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
 
 ## Flight Data 
-- - [Oehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.](https://doi.org/10.4121/uuid:37264fde-2344-4af2-860c-effda9caa3e8)
+
+- [Oehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.](https://doi.org/10.4121/uuid:37264fde-2344-4af2-860c-effda9caa3e8)
+
 - [Kite power flight data acquired on 8 October 2019](https://github.com/awegroup/Flightdata08102019) or [4TU link](https://data.4tu.nl/datasets/102f9f56-aecd-4460-8c69-a3f74138ae53) analyzed by [Cayon et al. 2025](https://doi.org/10.5194/wes-2024-182) and [Schelbergen and Schmehl (2024)](https://doi.org/10.5194/wes-9-1323-2024)
 
 - Flight data 27-11-2023,Cayon et al. (2024a).
@@ -149,10 +157,8 @@ Where:
 
 ## Wind Tunnel Data 
 
-- Zenodo doi to Load paper, and add code link
-- Zendo doi to 
-
+.. (add info)
 
 ## Structural Results
 
-..
+.. (add info)
