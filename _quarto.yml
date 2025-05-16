@@ -17,7 +17,7 @@ book:
     - docs/literature.md
     - docs/datasets.md
     - docs/code_bases.md
-    - docs/media.md
+    - docs/more_info_and_media.md
   # appendices: 
   #   - docs/appendix_example.md    
   # - part: "**Literature**"

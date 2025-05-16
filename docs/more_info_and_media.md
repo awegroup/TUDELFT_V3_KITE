@@ -1,4 +1,4 @@
-# Media {.unnumbered}
+# More Info and Media {.unnumbered}
 
 ### System overview {.unnumbered}
 ![System overview of the V3, with optional launch mast. Made by: 
