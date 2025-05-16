@@ -24,7 +24,7 @@
     "href": "docs/literature.html",
     "title": "Litature",
     "section": "",
-    "text": "2025\nPublished and peer-reviewed - Cayon, O., Watson, S., and Schmehl, R.: Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems, Wind Energ. Sci. Discuss. preprint, 10.5194/wes-2024-182, in review, 2025.\nMSc Thesis - (in preparation) Nathan van de Vonde, UGent, MSc Thesis - (in preparation) Kasper Masure, TUDelft, MSc Thesis",
+    "text": "2025\nPublished and peer-reviewed\nMSc Thesis - (in preparation) Nathan van de Vonde, UGent, MSc Thesis - (in preparation) Kasper Masure, TUDelft, MSc Thesis",
     "crumbs": [
       "Litature"
     ]
@@ -34,7 +34,7 @@
     "href": "docs/literature.html#section",
     "title": "Litature",
     "section": "",
-    "text": "(in preparation) Poland, J.A.W., Mac Gaunaa, and Schmehl, R.: Brief communication on enhancements and best practices for utilizing the Vortex Step Method, Wind Energy Science, 2025.",
+    "text": "Cayon, O., Watson, S., and Schmehl, R.: Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems, Wind Energ. Sci. Discuss. preprint, 10.5194/wes-2024-182, in review, 2025.\n(in preparation) Poland, J.A.W., Mac Gaunaa, and Schmehl, R.: Brief communication on enhancements and best practices for utilizing the Vortex Step Method, Wind Energy Science, 2025.",
     "crumbs": [
       "Litature"
     ]
@@ -44,7 +44,7 @@
     "href": "docs/literature.html#section-1",
     "title": "Litature",
     "section": "2024",
-    "text": "2024\nPublished and peer-reviewed - Poland, J.A.W. and Schmehl, R.: A virtual wind tunnel for deforming airborne wind energy kites, J. Phys.: Conf. Ser. 2767, 072001, 2024. - - Schelbergen, M. and Schmehl, R.: Swinging motion of a kite with suspended control unit flying turning manoeuvres, Wind Energy Science, 9, 1323–1338, 2024.\nMSc Thesis - Van Spronsen, J. M.: Rigidized subscale kite wind tunnel test, Masters Thesis, Delft University of Technology, 2024.",
+    "text": "2024\nPublished and peer-reviewed\n\nPoland, J.A.W. and Schmehl, R.: A virtual wind tunnel for deforming airborne wind energy kites, J. Phys.: Conf. Ser. 2767, 072001, 2024.\n\nSchelbergen, M. and Schmehl, R.: Swinging motion of a kite with suspended control unit flying turning manoeuvres, Wind Energy Science, 9, 1323–1338, 2024.\n\nMSc Thesis\n\nVan Spronsen, J. M.: Rigidized subscale kite wind tunnel test, Masters Thesis, Delft University of Technology, 2024.",
     "crumbs": [
       "Litature"
     ]
@@ -54,7 +54,7 @@
     "href": "docs/literature.html#section-2",
     "title": "Litature",
     "section": "2023",
-    "text": "2023\nPublished and peer-reviewed - Poland, J.A.W. and Schmehl, R.: Modelling Aero-Structural Deformation of Flexible Membrane Kites, Energies, 16(14):5264, 2023.\n\nCayon, O., Gaunaa, M. and Schmehl, R.: Fast Aero-Structural Model of a Leading-Edge Inflatable Kite, Energies, 16(7):3061, 2023.\n\nMSc Thesis - Batchelor, A.R.: Development and benchmarking of a Particle System framework for structural modeling of soft-wing kites, Masters Thesis, Delft University of Technology, 2023.\n\nWatchorn, P.: Aerodynamic Load Modelling for Leading Edge Inflatable Kites, Masters Thesis, Delft University of Technology, 2023.",
+    "text": "2023\nPublished and peer-reviewed\n\nPoland, J.A.W. and Schmehl, R.: Modelling Aero-Structural Deformation of Flexible Membrane Kites, Energies, 16(14):5264, 2023.\nCayon, O., Gaunaa, M. and Schmehl, R.: Fast Aero-Structural Model of a Leading-Edge Inflatable Kite, Energies, 16(7):3061, 2023.\n\nMSc Thesis\n\nBatchelor, A.R.: Development and benchmarking of a Particle System framework for structural modeling of soft-wing kites, Masters Thesis, Delft University of Technology, 2023.\nWatchorn, P.: Aerodynamic Load Modelling for Leading Edge Inflatable Kites, Masters Thesis, Delft University of Technology, 2023.",
     "crumbs": [
       "Litature"
     ]
@@ -64,7 +64,7 @@
     "href": "docs/literature.html#section-3",
     "title": "Litature",
     "section": "2022",
-    "text": "2022\nPublished and peer-reviewed\nMSc Thesis - Declercq, P.-J.: Aeroelastic analysis of a soft kite for airborne wind energy, MSc Thesis (Master of Science in Electromechanical Engineering, EMELMEME), UGent. Faculteit Ingenieurswetenschappen en Architectuur, 2022.\n\nPoland, J.A.W.: Modelling aeroelastic deformation of soft wing membrane kites, Masters Thesis, Delft University of Technology, 2022.\nCayon, O.: Fast aeroelastic model of a leading-edge inflatable kite, Masters Thesis, Delft University of Technology, 2022.",
+    "text": "2022\nPublished and peer-reviewed\nMSc Thesis\n\nDeclercq, P.-J.: Aeroelastic analysis of a soft kite for airborne wind energy, MSc Thesis (Master of Science in Electromechanical Engineering, EMELMEME), UGent. Faculteit Ingenieurswetenschappen en Architectuur, 2022.\nPoland, J.A.W.: Modelling aeroelastic deformation of soft wing membrane kites, Masters Thesis, Delft University of Technology, 2022.\nCayon, O.: Fast aeroelastic model of a leading-edge inflatable kite, Masters Thesis, Delft University of Technology, 2022.",
     "crumbs": [
       "Litature"
     ]
@@ -74,7 +74,7 @@
     "href": "docs/literature.html#section-4",
     "title": "Litature",
     "section": "2021",
-    "text": "2021\nPublished and peer-reviewed\nMSc Thesis - Viré, A., Lebesque, G., Folkersma, M. and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15(4):1450, 2021.",
+    "text": "2021\nPublished and peer-reviewed\nMSc Thesis\n\nViré, A., Lebesque, G., Folkersma, M. and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15(4):1450, 2021.",
     "crumbs": [
       "Litature"
     ]
@@ -84,7 +84,7 @@
     "href": "docs/literature.html#section-5",
     "title": "Litature",
     "section": "2020",
-    "text": "2020\nPublished and peer-reviewed - Viré, A. et al.: Reynolds-averaged Navier-Stokes simulations of the flow past a leading edge inflatable wing for airborne wind energy applications, J. Phys.: Conf. Ser., 1618(3):032007, 2020.\n\nSchelbergen, M. and Schmehl, R.: Validation of the quasi-steady performance model for pumping airborne wind energy systems, J. Phys.: Conf. Ser., 1618:032003, 2020.\nSchmehl, R.: Successful mast-based launch of the V3 kite, Delft University of Technology, 2020.\n\nMSc Thesis - Roullier, A.: Experimental analysis of a kite system’s dynamics, Masters Thesis, EPFL, 2020.\n\nLebesque, G.H.M.: Steady-State RANS Simulation of a Leading Edge Inflatable Wing with Chordwise Struts, Masters Thesis, Delft University of Technology, 2020.",
+    "text": "2020\nPublished and peer-reviewed\n\nViré, A. et al.: Reynolds-averaged Navier-Stokes simulations of the flow past a leading edge inflatable wing for airborne wind energy applications, J. Phys.: Conf. Ser., 1618(3):032007, 2020.\nSchelbergen, M. and Schmehl, R.: Validation of the quasi-steady performance model for pumping airborne wind energy systems, J. Phys.: Conf. Ser., 1618:032003, 2020.\nSchmehl, R.: Successful mast-based launch of the V3 kite, Delft University of Technology, 2020.\n\nMSc Thesis\n\nRoullier, A.: Experimental analysis of a kite system’s dynamics, Masters Thesis, EPFL, 2020.\nLebesque, G.H.M.: Steady-State RANS Simulation of a Leading Edge Inflatable Wing with Chordwise Struts, Masters Thesis, Delft University of Technology, 2020.",
     "crumbs": [
       "Litature"
     ]
@@ -94,7 +94,7 @@
     "href": "docs/literature.html#section-6",
     "title": "Litature",
     "section": "2019",
-    "text": "2019\nPublished and peer-reviewed - Van der Vlugt, R., Bley, A., Noom, M. and Schmehl, R.: Quasi-steady model of a pumping kite power system, Renewable Energy, 131:83–99, 2019.\n\nOehler, J. and Schmehl, R.: Aerodynamic characterization of a soft kite by in situ flow measurement, Wind Energy Science, 4(1):1–21, 2019.\nFolkersma, M., Schmehl, R. and Viré, A.: Boundary layer transition modeling on leading edge inflatable kite airfoils, Wind Energy, 22(7):908–921, 2019.\n\nMSc Thesis - Demkowicz, P.: Numerical Analysis of the Flow Past a Leading Edge Inflatable Kite Wing Using a Correlation-Based Transition Model, Masters Thesis, Delft University of Technology, 2019.",
+    "text": "2019\nPublished and peer-reviewed\n\nVan der Vlugt, R., Bley, A., Noom, M. and Schmehl, R.: Quasi-steady model of a pumping kite power system, Renewable Energy, 131:83–99, 2019.\nOehler, J. and Schmehl, R.: Aerodynamic characterization of a soft kite by in situ flow measurement, Wind Energy Science, 4(1):1–21, 2019.\nFolkersma, M., Schmehl, R. and Viré, A.: Boundary layer transition modeling on leading edge inflatable kite airfoils, Wind Energy, 22(7):908–921, 2019.\n\nMSc Thesis\n\nDemkowicz, P.: Numerical Analysis of the Flow Past a Leading Edge Inflatable Kite Wing Using a Correlation-Based Transition Model, Masters Thesis, Delft University of Technology, 2019.",
     "crumbs": [
       "Litature"
     ]
@@ -104,7 +104,7 @@
     "href": "docs/literature.html#section-7",
     "title": "Litature",
     "section": "2018",
-    "text": "2018\nPublished and peer-reviewed - Schmehl, R. and Oehler, J.: 25 m2 LEI V3 tube kite transitioning to traction phase, flying figure eight manoeuvres, Copernicus Publications, 2018.\n\nOehler, J., van Reijen, M. and Schmehl, R.: Experimental Investigation of Soft Kite Performance During Turning Maneuvers, Journal of Physics: Conference Series, 1037(5):052004, 2018.\n\nMSc Thesis\n- Mandru, P.S.M.: Investigation on inviscid flow methods for 2D LEI tube kite, MSc Thesis, Delft University of Technology, 2018.\n\nvan Reijen, M.R.: The turning of kites, a quantification of known theories, MSc Thesis, Delft University of Technology, 2018.",
+    "text": "2018\nPublished and peer-reviewed\n\nSchmehl, R. and Oehler, J.: 25 m2 LEI V3 tube kite transitioning to traction phase, flying figure eight manoeuvres, Copernicus Publications, 2018.\nOehler, J., van Reijen, M. and Schmehl, R.: Experimental Investigation of Soft Kite Performance During Turning Maneuvers, Journal of Physics: Conference Series, 1037(5):052004, 2018.\n\nMSc Thesis\n\nMandru, P.S.M.: Investigation on inviscid flow methods for 2D LEI tube kite, MSc Thesis, Delft University of Technology, 2018.\nvan Reijen, M.R.: The turning of kites, a quantification of known theories, MSc Thesis, Delft University of Technology, 2018.",
     "crumbs": [
       "Litature"
     ]
@@ -114,7 +114,7 @@
     "href": "docs/literature.html#section-8",
     "title": "Litature",
     "section": "2017",
-    "text": "2017\nPublished and peer-reviewed\nMSc Thesis - Sachdeva, S.: Impact of Turning-Induced Shape Deformations on Aerodynamic Performance of Leading Edge Inflatable Kites, MSc Thesis, Delft University of Technology, 2017.",
+    "text": "2017\nPublished and peer-reviewed\nMSc Thesis\n\nSachdeva, S.: Impact of Turning-Induced Shape Deformations on Aerodynamic Performance of Leading Edge Inflatable Kites, MSc Thesis, Delft University of Technology, 2017.",
     "crumbs": [
       "Litature"
     ]
@@ -124,7 +124,7 @@
     "href": "docs/literature.html#section-9",
     "title": "Litature",
     "section": "2016",
-    "text": "2016\nPublished and peer-reviewed - Fechner, U.: A Methodology for the Design of Kite-Power Control Systems, PhD Thesis, Delft University of Technology, 2016. MSc Thesis",
+    "text": "2016\nPublished and peer-reviewed\n\nFechner, U.: A Methodology for the Design of Kite-Power Control Systems, PhD Thesis, Delft University of Technology, 2016. MSc Thesis",
     "crumbs": [
       "Litature"
     ]
@@ -134,7 +134,7 @@
     "href": "docs/literature.html#section-10",
     "title": "Litature",
     "section": "2015",
-    "text": "2015\nPublished and peer-reviewed - Fechner, U., Van der Vlugt, R., Schreuder, E. and Schmehl, R.: Dynamic Model of a Pumping Kite Power System, Renewable Energy, 83:705–716, 2015.\nMSc Thesis - Leuthold, R.C.: Multiple-Wake Vortex Lattice Method for Membrane Wing Kites, Masters Thesis, Delft University of Technology, 2015.\n\nBerens, J.: Dynamic Nonlinear Aeroelastic Behaviour of Flexible Wings in an Airflow, MSc Thesis, Delft University of Technology, Mar. 20, 2015.",
+    "text": "2015\nPublished and peer-reviewed\n\nFechner, U., Van der Vlugt, R., Schreuder, E. and Schmehl, R.: Dynamic Model of a Pumping Kite Power System, Renewable Energy, 83:705–716, 2015.\n\nMSc Thesis\n\nLeuthold, R.C.: Multiple-Wake Vortex Lattice Method for Membrane Wing Kites, Masters Thesis, Delft University of Technology, 2015.\nBerens, J.: Dynamic Nonlinear Aeroelastic Behaviour of Flexible Wings in an Airflow, MSc Thesis, Delft University of Technology, Mar. 20, 2015.",
     "crumbs": [
       "Litature"
     ]
@@ -144,7 +144,7 @@
     "href": "docs/literature.html#section-11",
     "title": "Litature",
     "section": "2014",
-    "text": "2014\nPublished and peer-reviewed - Jehle, C. and Schmehl, R.: Applied Tracking Control for Kite Power Systems, Journal of Guidance, Control, and Dynamics, 37(4):1211–1222, 2014.\n\nBosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Dynamic nonlinear aeroelastic model of a kite for power generation, Journal of Guidance, Control and Dynamics, 37(5):1426–1436, 2014.\n\nMSc Thesis - Geschiere, N.H.: Dynamic modelling of a flexible kite for power generation: Coupling a fluid-structure solver to a dynamic particle system, Masters Thesis, Delft University of Technology, 2014.",
+    "text": "2014\nPublished and peer-reviewed\n\nJehle, C. and Schmehl, R.: Applied Tracking Control for Kite Power Systems, Journal of Guidance, Control, and Dynamics, 37(4):1211–1222, 2014.\nBosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Dynamic nonlinear aeroelastic model of a kite for power generation, Journal of Guidance, Control and Dynamics, 37(5):1426–1436, 2014.\n\nMSc Thesis\n\nGeschiere, N.H.: Dynamic modelling of a flexible kite for power generation: Coupling a fluid-structure solver to a dynamic particle system, Masters Thesis, Delft University of Technology, 2014.",
     "crumbs": [
       "Litature"
     ]
@@ -154,7 +154,7 @@
     "href": "docs/literature.html#section-12",
     "title": "Litature",
     "section": "2013",
-    "text": "2013\nPublished and peer-reviewed - Van der Vlugt, R., Peschel, J. and Schmehl, R.: Design and Experimental Characterization of a Pumping Kite Power System, in Airborne Wind Energy, Green Energy and Technology, Springer, Chapter 23, 403–425, 2013.\n\nBreukels, J., Schmehl, R. and Ockels, W.: Aeroelastic Simulation of Flexible Membrane Wings based on Multibody System Dynamics, in Airborne Wind Energy, Green Energy and Technology, Springer, Chapter 16, 287–305, 2013.\nBosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Nonlinear Aeroelasticity, Flight Dynamics and Control of a Flexible Membrane Traction Kite, in Airborne Wind Energy, Springer, Chap. 17, 307–323, 2013.\n\nMSc Thesis - van der Knaap, E.F.: A Particle System Approach for Modelling Flexible Wings with Inflatable Support Structures, MSc Thesis, Delft University of Technology, 2013.",
+    "text": "2013\nPublished and peer-reviewed\n\nVan der Vlugt, R., Peschel, J. and Schmehl, R.: Design and Experimental Characterization of a Pumping Kite Power System, in Airborne Wind Energy, Green Energy and Technology, Springer, Chapter 23, 403–425, 2013.\nBreukels, J., Schmehl, R. and Ockels, W.: Aeroelastic Simulation of Flexible Membrane Wings based on Multibody System Dynamics, in Airborne Wind Energy, Green Energy and Technology, Springer, Chapter 16, 287–305, 2013.\nBosch, A., Schmehl, R., Tiso, P. and Rixen, D.: Nonlinear Aeroelasticity, Flight Dynamics and Control of a Flexible Membrane Traction Kite, in Airborne Wind Energy, Springer, Chap. 17, 307–323, 2013.\n\nMSc Thesis\n\nvan der Knaap, E.F.: A Particle System Approach for Modelling Flexible Wings with Inflatable Support Structures, MSc Thesis, Delft University of Technology, 2013.",
     "crumbs": [
       "Litature"
     ]
@@ -164,7 +164,7 @@
     "href": "docs/literature.html#section-13",
     "title": "Litature",
     "section": "2012",
-    "text": "2012\nPublished and peer-reviewed\nMSc Thesis - Bosch, H.A.: Finite Element Analysis of a Kite for Power Generation, Masters Thesis, Delft University of Technology, 2012.\n\nSchwoll, J.: Finite Element Analysis of Inflatable Structures Using Uniform Pressure, Masters Thesis, Delft University of Technology, 2012.\nvan Kappel, R.: Aerodynamic Analysis Tool for Dynamic Leading Edge Inflated Kite Models: A Non-Linear Vortex Lattice Method, MSc Thesis, Delft University of Technology, 2012.",
+    "text": "2012\nPublished and peer-reviewed\nMSc Thesis\n\nBosch, H.A.: Finite Element Analysis of a Kite for Power Generation, Masters Thesis, Delft University of Technology, 2012.\nSchwoll, J.: Finite Element Analysis of Inflatable Structures Using Uniform Pressure, Masters Thesis, Delft University of Technology, 2012.\nvan Kappel, R.: Aerodynamic Analysis Tool for Dynamic Leading Edge Inflated Kite Models: A Non-Linear Vortex Lattice Method, MSc Thesis, Delft University of Technology, 2012.",
     "crumbs": [
       "Litature"
     ]
@@ -194,7 +194,7 @@
     "href": "docs/datasets.html#aerodynamic-data",
     "title": "Datasets",
     "section": "Aerodynamic Data",
-    "text": "Aerodynamic Data\nThe CFD data includes lift, drag, and side-force coefficients as functions of angle of attack and sideslip angle. The measured wind tunnel data includes lift, drag, and side-force (CL, CD, CS) coefficients and roll, pitch, yaw moment coefficients (Mx, My, Mz) as functions of angle of attack and sideslip angle.\n Reference frame as used by Poland2025\nCFD data: - CFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\n\nCFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re1e5_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re5e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\n\nWindTunnel data: - WindTunnel_Re5e5_alpha_sweep_beta_0_Poland2025.csv\n\nWindTunnel_Re5e5_beta_sweep_alpha_7_Poland2025.csv\nWindTunnel_Re5e5_beta_sweep_alpha_13_Poland2025.csv\n\nVariables The data are presented in the following format:\nalpha [deg] | beta [deg] | CL | CD | CS | Mx | My | Mz |\nThe WindTunnel files also contains additional columns with CL_ci, CD_ci, CS_ci, Mx_ci, My_ci, Mz_ci, which are 99% confidence intervals of the coefficients, see Poland2025 for more details.\nDefinitions of the variables:\n\nalpha: defined as the angle between the incoming flow vector and the vector from mid-span leading-edge to trailing-edge, projected on the z, x plane, so around the y axis.\nbeta: defined as the angle between the incoming flow vector and the vector from mid-span leading-edge to the center of the model, projected on the y, x plane, so around the z axis.\nCL: Lift coefficient = L / (0.5 * rho * V^2 * A)\nCD: Drag coefficient = D / (0.5 * rho * V^2 * A)\nCS: Side-force coefficient = S / (0.5 * rho * V^2 * A)\nCMx: Roll moment coefficient = Mx / (0.5 * rho * V^2 * A * c)\nCMy: Pitch moment coefficient = My / (0.5 * rho * V^2 * A * c)\nCMz: Yaw moment coefficient = Mz / (0.5 * rho * V^2 * A * c)\n\nWhere: - A: Reference area\n\nrho: Air density\nV: Velocity\nc: Chord length\n\nName Explanation - CFD: Computational Fluid Dynamics\n\nRANS: Reynolds-Averaged Navier-Stokes\nWindTunnel: Wind tunnel load measurements\nRe: Reynolds number\nalpha_sweep: data over a varying angle of attack\nbeta_sweep: data over a varying sideslip angle\nVire2020: The CFD RANS numerical setup -for the V3 kite without struts- and a discussion of the data is presented in the paper: &gt; Viré, A., Demkowicz, P., Folkersma, M., Roullier, A., and Schmehl, R. (2020). Reynolds-averaged Navier-Stokes simulations of the flow past a leading edge inflatable wing for airborne wind energy applications. Journal of Physics: Conference Series, 1618, 032007. https://doi.org/10.1088/1742-6596/1618/3/032007\nVire2022: The CFD RANS numerical setup, and a discussion of the data is presented in the paper: &gt; Viré, A., Lebesque, G., Folkersma, M., and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15, 1450, https://doi.org/10.3390/en15041450, 2022.\nPoland2025: The data are presented in the paper: &gt; Poland, J. A. W., van Spronsen, J. M., Gaunaa, M., and Schmehl, R.: Wind Tunnel Load Measurements of a Leading-Edge Inflatable Kite Rigid Scale Model, Wind Energ. Sci. Discuss. [preprint], https://doi.org/10.5194/wes-2025-77, in review, 2025.\nCorrectedByPoland2025: The data are corrected by a 1.02° offset in the geometric angle of attack (the angle between the horizontal plane and the vector from mid-span leading-edge to trailing-edge). Furthermore the CS values, are non-dimensionalized by the projected area of the model, rather than the projected side area of the kite. Lastly, as a new axis system has been adopted, the orientation has been swapped, i.e. CS_new = -CS_old. The correction is presented in Poland2025.",
+    "text": "Aerodynamic Data\nThe CFD data includes lift, drag, and side-force coefficients as functions of angle of attack and sideslip angle. The measured wind tunnel data includes lift, drag, and side-force (CL, CD, CS) coefficients and roll, pitch, yaw moment coefficients (Mx, My, Mz) as functions of angle of attack and sideslip angle.\n Reference frame as used by Poland2025\nCFD data:\n\nCFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e5_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re1e5_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re5e5_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re1e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re3e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_alpha_sweep_beta_0_Vire2020_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_alpha_sweep_beta_0_Vire2022_CorrectedByPoland2025.csv\nCFD_RANS_Re15e6_beta_sweep_alpha_13_Vire2022_CorrectedByPoland2025.csv\n\nWindTunnel data:\n\nWindTunnel_Re5e5_alpha_sweep_beta_0_Poland2025.csv\nWindTunnel_Re5e5_beta_sweep_alpha_7_Poland2025.csv\nWindTunnel_Re5e5_beta_sweep_alpha_13_Poland2025.csv\n\nVariables The data are presented in the following format:\nalpha [deg] | beta [deg] | CL | CD | CS | Mx | My | Mz |\nThe WindTunnel files also contains additional columns with CL_ci, CD_ci, CS_ci, Mx_ci, My_ci, Mz_ci, which are 99% confidence intervals of the coefficients, see Poland2025 for more details.\nDefinitions of the variables:\n\nalpha: defined as the angle between the incoming flow vector and the vector from mid-span leading-edge to trailing-edge, projected on the z, x plane, so around the y axis.\nbeta: defined as the angle between the incoming flow vector and the vector from mid-span leading-edge to the center of the model, projected on the y, x plane, so around the z axis.\nCL: Lift coefficient = L / (0.5 * rho * V^2 * A)\nCD: Drag coefficient = D / (0.5 * rho * V^2 * A)\nCS: Side-force coefficient = S / (0.5 * rho * V^2 * A)\nCMx: Roll moment coefficient = Mx / (0.5 * rho * V^2 * A * c)\nCMy: Pitch moment coefficient = My / (0.5 * rho * V^2 * A * c)\nCMz: Yaw moment coefficient = Mz / (0.5 * rho * V^2 * A * c)\n\nWhere:\n\nA: Reference area\nrho: Air density\nV: Velocity\nc: Chord length\n\nName Explanation\n\nCFD: Computational Fluid Dynamics\nRANS: Reynolds-Averaged Navier-Stokes\nWindTunnel: Wind tunnel load measurements\nRe: Reynolds number\nalpha_sweep: data over a varying angle of attack\nbeta_sweep: data over a varying sideslip angle\nVire2020: The CFD RANS numerical setup -for the V3 kite without struts- and a discussion of the data is presented in the paper: &gt; Viré, A., Demkowicz, P., Folkersma, M., Roullier, A., and Schmehl, R. (2020). Reynolds-averaged Navier-Stokes simulations of the flow past a leading edge inflatable wing for airborne wind energy applications. Journal of Physics: Conference Series, 1618, 032007. https://doi.org/10.1088/1742-6596/1618/3/032007\nVire2022: The CFD RANS numerical setup, and a discussion of the data is presented in the paper: &gt; Viré, A., Lebesque, G., Folkersma, M., and Schmehl, R.: Effect of Chordwise Struts and Misaligned Flow on the Aerodynamic Performance of a Leading-Edge Inflatable Wing, Energies, 15, 1450, https://doi.org/10.3390/en15041450, 2022.\nPoland2025: The data are presented in the paper: &gt; Poland, J. A. W., van Spronsen, J. M., Gaunaa, M., and Schmehl, R.: Wind Tunnel Load Measurements of a Leading-Edge Inflatable Kite Rigid Scale Model, Wind Energ. Sci. Discuss. [preprint], https://doi.org/10.5194/wes-2025-77, in review, 2025.\nCorrectedByPoland2025: The data are corrected by a 1.02° offset in the geometric angle of attack (the angle between the horizontal plane and the vector from mid-span leading-edge to trailing-edge). Furthermore the CS values, are non-dimensionalized by the projected area of the model, rather than the projected side area of the kite. Lastly, as a new axis system has been adopted, the orientation has been swapped, i.e. CS_new = -CS_old. The correction is presented in Poland2025.",
     "crumbs": [
       "Datasets"
     ]
@@ -214,7 +214,7 @@
     "href": "docs/datasets.html#flight-data",
     "title": "Datasets",
     "section": "Flight Data",
-    "text": "Flight Data\n\n\nOehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.\n\nKite power flight data acquired on 8 October 2019 or 4TU link analyzed by Cayon et al. 2025 and Schelbergen and Schmehl (2024)\nFlight data 27-11-2023,Cayon et al. (2024a).",
+    "text": "Flight Data\n\nOehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.\nKite power flight data acquired on 8 October 2019 or 4TU link analyzed by Cayon et al. 2025 and Schelbergen and Schmehl (2024)\nFlight data 27-11-2023,Cayon et al. (2024a).",
     "crumbs": [
       "Datasets"
     ]
@@ -224,7 +224,7 @@
     "href": "docs/datasets.html#wind-tunnel-data",
     "title": "Datasets",
     "section": "Wind Tunnel Data",
-    "text": "Wind Tunnel Data\n\nZenodo doi to Load paper, and add code link\nZendo doi to",
+    "text": "Wind Tunnel Data\n.. (add info)",
     "crumbs": [
       "Datasets"
     ]
@@ -234,7 +234,7 @@
     "href": "docs/datasets.html#structural-results",
     "title": "Datasets",
     "section": "Structural Results",
-    "text": "Structural Results\n..",
+    "text": "Structural Results\n.. (add info)",
     "crumbs": [
       "Datasets"
     ]
