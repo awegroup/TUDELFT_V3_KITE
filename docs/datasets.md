@@ -78,11 +78,12 @@ The CFD data includes lift, drag, and side-force coefficients as functions of an
 
 
 **Variables**
+
 The data are presented in the following format:
 
 | alpha [deg] | beta [deg] | CL | CD | CS | Mx | My | Mz |
 
-The WindTunnel files also contains additional columns with CL_ci, CD_ci, CS_ci, Mx_ci, My_ci, Mz_ci, which are 99% confidence intervals of the coefficients, see Poland2025 for more details.
+The WindTunnel files also contains additional columns: CL_ci, CD_ci, CS_ci, Mx_ci, My_ci, Mz_ci, which are 99% confidence intervals of the coefficients, see Poland2025 for more details.
 
 Definitions of the variables:
 
@@ -136,7 +137,7 @@ Where:
     of a Leading-Edge Inflatable Wing, Energies, 15, 1450, https://doi.org/10.3390/en15041450, 2022.*
 
 - Poland2025: The data are presented in the paper:
-- 
+ 
      *Poland, J. A. W., van Spronsen, J. M., Gaunaa, M., and Schmehl, R.: Wind Tunnel Load Measurements of a Leading-Edge Inflatable Kite Rigid Scale Model, Wind Energ. Sci. Discuss. [preprint], https://doi.org/10.5194/wes-2025-77, in review, 2025.*
 
 - CorrectedByPoland2025: The data are corrected by a 1.02° offset in the geometric angle of attack (the angle between the horizontal plane and the vector from mid-span leading-edge to trailing-edge). Furthermore the CS values, are non-dimensionalized by the projected area of the model, rather than the projected side area of the kite. Lastly, as a new axis system has been adopted, the orientation has been swapped, i.e. CS_new = -CS_old. The correction is presented in Poland2025.
