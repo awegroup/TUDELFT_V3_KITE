@@ -146,7 +146,10 @@ Where:
 
 ## Geometric Data
 
-- [CAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
+![Surface Mesh](../data/images/surface_mesh_lebesque2020.png)
+*Illustration taken from G.Lebesque MSc Thesis 2020*
+
+- [CAD .stp file of the Wing, developed initially by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
 
 - [Surfplan Exported Geometry Files](../data/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
 
@@ -157,11 +160,7 @@ Where:
 - [Kite power flight data acquired on 8 October 2019](https://github.com/awegroup/Flightdata08102019) or [4TU link](https://data.4tu.nl/datasets/102f9f56-aecd-4460-8c69-a3f74138ae53) analyzed by [Cayon et al. 2025](https://doi.org/10.5194/wes-2024-182) and [Schelbergen and Schmehl (2024)](https://doi.org/10.5194/wes-9-1323-2024)
 
 - Flight data 27-11-2023,Cayon et al. (2024a).
- 
 
-## Wind Tunnel Data 
-
-.. (add info)
 
 ## Structural Results
 
