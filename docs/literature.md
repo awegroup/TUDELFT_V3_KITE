@@ -1,5 +1,5 @@
 
-# Litature {.unnumbered}
+# Literature {.unnumbered}
 ## 2025 {.unnumbered}
 
 **Published and peer-reviewed**
