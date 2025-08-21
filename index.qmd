@@ -1,9 +1,17 @@
+---
+title: "TUDELFT_V3_KITE"
+format:
+  html:
+    page-layout: full
+---
+
 # Introduction {.unnumbered}
 
 Welcome to the website where all things related to the TUDELFT_V3_KITE are gathered!
 Here you will find links pointing toward: [Literature]((docs/literature.md)), [Datasets](docs/datasets.md), [Code bases/Repositories](docs/code_bases.md) and [Media](docs/media.md).
 
-<iframe src="data/html_files/interactive_plot.html" width="100%" height="520" style="border:0;"></iframe>
+<iframe src="data/html_files/interactive_plot.html"
+        style="width:100%;height:80vh;min-height:600px;border:0;"></iframe>
 
 
 ![Top two images are taken while testing behind the Aerospace Engineering Faculty of TU Delf (pre 2014)
