@@ -3,6 +3,8 @@
 Welcome to the website where all things related to the TUDELFT_V3_KITE are gathered!
 Here you will find links pointing toward: [Literature]((docs/literature.md)), [Datasets](docs/datasets.md), [Code bases/Repositories](docs/code_bases.md) and [Media](docs/media.md).
 
+<iframe src="data/html_files/interactive_plot.html" width="100%" height="520" style="border:0;"></iframe>
+
 
 ![Top two images are taken while testing behind the Aerospace Engineering Faculty of TU Delf (pre 2014)
 The middle two images are from a Wind Tunnel Campaign in the Open-Jet Facility of the TU Delft (April 2024)
