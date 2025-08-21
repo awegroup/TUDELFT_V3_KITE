@@ -204,7 +204,7 @@
     "href": "docs/datasets.html#geometric-data",
     "title": "Datasets",
     "section": "Geometric Data",
-    "text": "Geometric Data\n\nCAD .stp file, developed initiallt by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
+    "text": "Geometric Data\n Illustration taken from G.Lebesque MSc Thesis 2020\n\nCAD .stp file of the Wing, developed initially by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
     "crumbs": [
       "Datasets"
     ]
@@ -215,16 +215,6 @@
     "title": "Datasets",
     "section": "Flight Data",
     "text": "Flight Data\n\nOehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.\nKite power flight data acquired on 8 October 2019 or 4TU link analyzed by Cayon et al. 2025 and Schelbergen and Schmehl (2024)\nFlight data 27-11-2023,Cayon et al. (2024a).",
-    "crumbs": [
-      "Datasets"
-    ]
-  },
-  {
-    "objectID": "docs/datasets.html#wind-tunnel-data",
-    "href": "docs/datasets.html#wind-tunnel-data",
-    "title": "Datasets",
-    "section": "Wind Tunnel Data",
-    "text": "Wind Tunnel Data\n.. (add info)",
     "crumbs": [
       "Datasets"
     ]
