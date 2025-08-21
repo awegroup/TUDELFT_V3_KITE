@@ -5,9 +5,8 @@
 "Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433"](../data/images/system_overview.png)
 
 ### Flight path illustration
-![[30]:  Friedl, F.: Fault-Tolerant Design of a Pumping Kite Power Flight Control System. M.Sc. Thesis,
-FH Joanneum, University of Applied Sciences, Graz, Austria, 9 Feb 2015. http://resolver.tudelft.nl/uuid:e704e8aa-2371-437b-8de9-80b3b7067241
-[31]: Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433](../data/images/flight_path_overview.png)
+![[30]:  [Friedl, F.: Fault-Tolerant Design of a Pumping Kite Power Flight Control System. M.Sc. Thesis, FH Joanneum, University of Applied Sciences, Graz, Austria, 9 Feb 2015.](http://resolver.tudelft.nl/uuid:e704e8aa-2371-437b-8de9-80b3b7067241)
+[31]: [Salma, V., Friedl, F., Schmehl, R.: Improving Reliability and Safety of Airborne Wind Energy Systems. Wind Energy 23(2), 340–356 (2019). doi: 10.1002/we.2433](../data/images/flight_path_overview.png)
 
 ### Kite
 ![The TU Delft V3 kite with 25 m2 wing surface area is a custom development by kite designer Martial Camblong, creator of the brand Genetrix, in close collaboration with TU Delft team members John van den Heuvel and Rolf van der Vlugt.](../data/images/launch_mast_flight.png)
