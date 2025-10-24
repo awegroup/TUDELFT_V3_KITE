@@ -151,7 +151,7 @@ Where:
 
 - [CAD .stp file of the Wing, developed initially by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025](../data/geometry/CAD/TUDELFT_V3_KITE_surface_mesh_with_edge_fillets.zip)
 
-- [Surfplan Exported Geometry Files](../data/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
+- [Surfplan Exported Geometry Files](https://github.com/awegroup/TUDELFT_V3_KITE/tree/main/data/geometry/surfplan_export) which can be analyzed using [SurfplanAdapter](https://github.com/jellepoland/SurfplanAdapter).
 
 ## Flight Data 
 
