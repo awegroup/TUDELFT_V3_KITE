@@ -1,0 +1,42 @@
+all in cm's
+A_main: 0.6
+AI: 0.5
+AII: 0.5
+AIII_Br_main_2: 0.2 
+A1: 0.3
+A2: 0.3
+A3: 0.3
+A4: 0.3
+ab1_cd1: 0.2
+ab2_cd2: 0.2
+ab3_cd3: 0.2
+a1_b1: 0.2 
+c1: 0.2
+d1: 0.2
+a2_b2: 0.2
+c2: 0.2
+d2: 0.2 
+a3_b3: 0.2
+c3: 0.2
+d3: 0.2
+a4_b4: 0.2 
+M: 0.4
+SL: 1.2x0.15
+Br_main_e:  0.2
+Br_main_1:  0.2
+Br_main_2_AIII:  0.2
+Br_I: 0.2
+Br_II: 0.2
+Br_5: 0.4 
+br_1:  0.2
+br_2: 0.2
+br_3: 0.2
+br_4: 0.2
+a5_e: 0.2
+a5: 0.2
+br_5_e: 0.2
+br_5: 0.2
+
+pulley_tiny: 2.5x1.5x1cm and and < 0.05kg
+pulley_small: 2x3x1.5cm and 0.01kg
+pulley_large: 6x9x3cm and 0.2kg
