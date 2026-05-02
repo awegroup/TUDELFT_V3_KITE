@@ -210,11 +210,21 @@
     ]
   },
   {
-    "objectID": "docs/datasets.html#geometric-data",
-    "href": "docs/datasets.html#geometric-data",
+    "objectID": "docs/datasets.html#wing-geometric-data",
+    "href": "docs/datasets.html#wing-geometric-data",
     "title": "Datasets",
-    "section": "Geometric Data",
-    "text": "Geometric Data\n Illustration taken from G.Lebesque MSc Thesis 2020\n\nCAD .stp file of the Wing, developed initially by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
+    "section": "Wing geometric data",
+    "text": "Wing geometric data\n Illustration taken from G.Lebesque MSc Thesis 2020\n\nCAD .stp file of the Wing, developed initially by G.Lebesque during his MSc project 2020, and later adjusted by J.A.W. Poland in 2025\nSurfplan Exported Geometry Files which can be analyzed using SurfplanAdapter.",
+    "crumbs": [
+      "Datasets"
+    ]
+  },
+  {
+    "objectID": "docs/datasets.html#bridle-line-system",
+    "href": "docs/datasets.html#bridle-line-system",
+    "title": "Datasets",
+    "section": "Bridle line system",
+    "text": "Bridle line system\n\nvalues used in 2025-experiment\n\n\n\n\nBridle line layout",
     "crumbs": [
       "Datasets"
     ]
@@ -224,7 +234,7 @@
     "href": "docs/datasets.html#flight-data",
     "title": "Datasets",
     "section": "Flight Data",
-    "text": "Flight Data\n\nOehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.\nKite power flight data acquired on 8 October 2019 or 4TU link analyzed by Cayon et al. 2025 and Schelbergen and Schmehl (2024)\nFlight data 27-11-2023,Cayon et al. (2024a).",
+    "text": "Flight Data\n\nOehler, J. et al.: Kite power flight data acquired on 24 March 2017, Dataset, 4TU.Centre for Research Data, 2018.\nKite power flight data acquired on 8 October 2019 or 4TU link analyzed by Cayon et al. 2025 and Schelbergen and Schmehl (2024)\nKitepower flight data acquired on 9 October 2025",
     "crumbs": [
       "Datasets"
     ]
