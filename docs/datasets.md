@@ -157,6 +157,7 @@ Where:
 - [values used in 2025-experiment](https://github.com/awegroup/TUDELFT_V3_KITE/tree/main/2025_experiment/bridle_line_system)
 
 ![Bridle line layout](../2025_experiment/bridle_line_system/bridle_line_overview.JPG)
+*Bridle line layout during the [2025 experiment](https://github.com/awegroup/Flightdata09102025)*
 
 ## Flight Data 
 
