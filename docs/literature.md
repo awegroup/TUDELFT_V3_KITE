@@ -1,23 +1,46 @@
 
 # Literature {.unnumbered}
+
+## 2026 {.unnumbered}
+
+**Published and peer-reviewed**
+
+- [Poland, J. A. W., Masure, K. R. G., Cayon, O., and Schmehl, R.: Computational aerodynamics for soft-wing kite design, Wind Energ. Sci. Discuss. preprint, https://doi.org/10.5194/wes-2026-46, in review, 2026](https://doi.org/10.5194/wes-2026-46)
+
+- [Poland, J. A. W., Fritz, E., and Schmehl, R.: Flow field analysis of a leading-edge inflatable kite rigid-scale model using stereoscopic particle image velocimetry, Wind Energ. Sci., 11, 1461–1485, https://doi.org/10.5194/wes-11-1461-2026, 2026.](https://doi.org/10.5194/wes-11-1461-2026)
+
+- [Poland, J. A. W., van Spronsen, J. M., Gaunaa, M., and Schmehl, R.: Wind tunnel load measurements of a leading-edge inflatable kite rigid-scale model, Wind Energ. Sci., 11, 911–936, https://doi.org/10.5194/wes-11-911-2026, 2026.](https://doi.org/10.5194/wes-11-911-2026)
+
+**MSc Thesis** 
+
+- Patrick Roeleveld, TUDelft, MSc Thesis
+
+
+- Pim Haanen, TUDelft, MSc Thesis
+
+- Bart Kroese, TUDelft, MSc Thesis
+
 ## 2025 {.unnumbered}
 
 **Published and peer-reviewed**
 
-- [Cayon, O., Watson, S., and Schmehl, R.: Kite as a Sensor: Wind and State Estimation in Tethered Flying Systems, Wind Energ. Sci. Discuss. preprint, 10.5194/wes-2024-182, in review, 2025.](https://doi.org/10.5194/wes-2024-182)
-  
-- (in preparation) Poland, J.A.W., Mac Gaunaa, and Schmehl, R.: Brief communication on enhancements and best practices for utilizing the Vortex Step Method, Wind Energy Science, 2025.
+- [Cayon, O., Watson, S., and Schmehl, R.: Kite as a sensor: wind and state estimation in tethered flying systems, Wind Energ. Sci., 10, 2161–2188, https://doi.org/10.5194/wes-10-2161-2025, 2025.](https://doi.org/10.5194/wes-10-2161-2025)
 
-**MSc Thesis** 
-- (in preparation) Nathan van de Vonde, UGent, MSc Thesis
-- (in preparation) Kasper Masure, TUDelft, MSc Thesis
 
-## 2024 {.unnumbered}
+**MSc Thesis**
+
+- Nathan van de Vonde, UGent, MSc Thesis
+
+- Thijs van Lith, TUDelft, MSc Thesis
+
+- Kasper Masure, TUDelft, MSc Thesis
+
+## 2024
 
 **Published and peer-reviewed**
 
 - [Poland, J.A.W. and Schmehl, R.: A virtual wind tunnel for deforming airborne wind energy kites, J. Phys.: Conf. Ser. 2767, 072001, 2024.](https://doi.org/10.1088/1742-6596/2767/7/072001)
-- 
+ 
 - [Schelbergen, M. and Schmehl, R.: Swinging motion of a kite with suspended control unit flying turning manoeuvres, Wind Energy Science, 9, 1323–1338, 2024.](https://doi.org/10.5194/wes-9-1323-2024)
 
 **MSc Thesis** 
